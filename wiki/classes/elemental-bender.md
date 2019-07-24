@@ -66,7 +66,7 @@ You choose a nonmagical flame that you can see within range and that fits within
 _Derived from [Control Flames](https://roll20.net/compendium/dnd5e/Control%20Flames)_
 
 #### Create Bonfire
-*Command fire to do your bidding*
+*Create fucking BONFIRES BOYYYY*
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
