@@ -45,6 +45,8 @@ This does two things:
 1. **Elemental Redirect+:** Same as Elemental Redirect, except if you roll higher than the attack roll, you can choose to spend 1 Chi point to redirect the attack to any other target within the range of the original attack from yourself. If it is equal or lower, you simply redirect it as normal.
 2. **Elemental Block+:** Same as Elemental Block, except if you roll higher than the attack roll, you can choose to spend 1 Chi point to gamble "absorbing" the elemental attack for bonus Chi equal to it's spell cast level and no higher than your max Chi points, otherwise you will fail in absorbing the elemental attack and will take half damage of the attack. If it is equal or lower, you simply redirect it as normal.
 
+You can only do either of these once per short rest.
+
 ### Traditional Weapon Training
 Being an elemental bender, you have mastered the art of using your weapon skills in tandem with your elemental bending. Upon reaching 5th level, when you make an attack with any traditional bending weapons, see table below, you can use a bonus action to do a bending technique that normally takes 1 action.
 
