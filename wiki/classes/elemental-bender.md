@@ -115,8 +115,6 @@ You augment an item or weapon with the element of flame, the heat and fire itsel
 
 _Non-derived_
 
-\page
-
 ### Two-Chi Powers
 
 #### Fireskin
