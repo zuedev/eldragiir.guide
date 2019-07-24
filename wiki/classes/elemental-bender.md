@@ -14,7 +14,7 @@
 
 ## Class Table
 
-##### Elemental Bender
+### Elemental Bender
 | Level | Prof. Bonus | Chi Tapping | Focus Energy | Adv. Techniques | Features |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | - | - | - | Elemental Bending, Powerful Defense |
@@ -22,6 +22,17 @@
 | 3rd | +2 | 1d4 | 1d4 | - | Focus Energy |
 | 4th | +2 | 1d4 | 1d4 | 1 | Ability Score Improvement, Elemental Mastery |
 | 5th | +3 | 1d6 | 1d4 | 1 | Element Absorption, Traditional Weapon Training |
+
+## Class Features
+
+### Powerful Defense
+Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Charisma modifier.
+
+### Chi Tapping
+At 2nd level, you can tap into your element's key emotion to regain energy. If your chi point total reaches 0, you can roll your Focus Energy die without an action or reaction, which is located in the Inner Flame column of the Fire Bender table, and gain that many chi points. You cannot exceed your maximum number of chi points. This die increases as you level up. You must complete a long rest before using this feature again.
+
+### Focus Energy
+Whenever you deal elemental damage, you can take a bonus action to deal an extra 1d4 points of whatever elemental damage you deal to your target. This damage will increase as you level up.
 
 ## Fire Bending (Level 1+)
 
