@@ -125,7 +125,7 @@ ___
 - **Components:** V, S, C (2)
 - **Duration:** Concentration, Up to 1 hour
 
-You touch a willing creature. Until the spell ends, the target’s skin/armour is enveloped in magical flame, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.
+You touch a willing creature. Until the spell ends, the target’s skin/armour is enveloped in magical flame, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing. Any contact with the fireskin, such as melee attacks, causes 1d6 fire damage. 
 
 _Derived from [Dancing Lights](https://roll20.net/compendium/dnd5e/Dancing%20Lights)_
 
