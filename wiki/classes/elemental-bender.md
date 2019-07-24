@@ -18,8 +18,8 @@
 | Level | Prof. Bonus | Chi Tapping | Focus Energy | Adv. Techniques | Features |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | - | - | - | Elemental Bending, Powerful Defense |
-| 2nd | +2 | 1d4 | - | - | Element Redirect |
-| 3rd | +2 | 1d4 | 1d4 | - | - |
+| 2nd | +2 | 1d4 | - | - | Element Redirect, Chi Tapping |
+| 3rd | +2 | 1d4 | 1d4 | - | Focus Energy |
 | 4th | +2 | 1d4 | 1d4 | 1 | Ability Score Improvement, Elemental Mastery |
 | 5th | +3 | 1d6 | 1d4 | 1 | Element Absorption, Traditional Weapon Training |
 
