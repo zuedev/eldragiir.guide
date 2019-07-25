@@ -1,13 +1,3 @@
-stages:
-  - deploy_to_gitlab_wiki
-
-deploy_to_gitlab_wiki:
-  stage: deploy_to_gitlab_wiki
-  image: alpine/git:latest
-  script:
-    - git clone https://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.zeue.net/unnamed.group/unnamed-domain.git ~/repo-git
-    - git clone https://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.zeue.net/unnamed.group/unnamed-domain.wiki.git ~/wiki-git
-    - cd ~/wiki-git
-    - rm -rf * && cp -r ~/repo-git/wiki/* ./
-  only:
-    changes: ["wiki/**/*"]
+# This file is a template, and might need editing before it works on your project.
+include:
+  template: Jobs/Code-Quality.gitlab-ci.yml
