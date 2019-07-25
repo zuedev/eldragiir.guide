@@ -9,5 +9,3 @@ deploy_to_gitlab_wiki:
     - rm -rf * && cp -r ~/repo-git/wiki/* ./
   only:
     changes: ["wiki/**/*"]
-    - master
-    - pushes
