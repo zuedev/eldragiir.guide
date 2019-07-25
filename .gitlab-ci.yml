@@ -3,7 +3,7 @@ stages:
 
 deploy_to_gitlab_wiki:
   stage: deploy_to_gitlab_wiki
-  image: busybox:latest
+  image: alpine/git:latest
   script:
     - git clone git@gitlab.zeue.net:unnamed.group/unnamed-domain.git ~/repo-git
     - git clone git@gitlab.zeue.net:unnamed.group/unnamed-domain.wiki.git ~/wiki-git
