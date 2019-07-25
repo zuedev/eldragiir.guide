@@ -8,7 +8,7 @@ deploy_to_gitlab_wiki:
     - cd ~/wiki-git
     - rm -rf * && cp -r ~/repo-git/wiki/* ./
   only:
-    - master
-    - pushes
     changes:
       - wiki/**/*
+    - master
+    - pushes
