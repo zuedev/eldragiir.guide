@@ -52,7 +52,7 @@ Being an elemental bender, you have mastered the art of using your weapon skills
 
 | Element | Weapon(s)|
 |:-:|:-:|
-| Fire | Scimitar |
+| Fire | Scimitar, Glaive |
 
 ## Fire Bending (Level 1+)
 
