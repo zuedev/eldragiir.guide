@@ -160,6 +160,20 @@ You touch a willing creature. Until the spell ends, the target’s skin/armour i
 
 _Derived from [Dancing Lights](https://roll20.net/compendium/dnd5e/Dancing%20Lights)_
 
+### Three-Chi Powers
+
+#### Dragon's Breath
+*Your voice becomes a torrent of flame*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Touch
+- **Components:** V, C (3)
+- **Duration:** Up to 1 minute
+
+You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Until the spell ends, the creature can use an action to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity saving throw, taking 3d6 fire damage on a failed save, or half as much damage on a successful one.
+
+_Derived from [Dragon's Breath](https://roll20.net/compendium/dnd5e/Dragon's%20Breath)_
+
 ### 5-Chi Powers
 
 #### Fireball
