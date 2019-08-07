@@ -324,6 +324,20 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 
 _Derived from [Witch Bolt](https://roll20.net/compendium/dnd5e/Witch%20Bolt)_
 
+## Two-Chi Powers
+
+#### Lightning Aspect
+*You can make stun batons with this!*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Touch
+- **Components:** V, S. C (2)
+- **Duration:** 10 minutes
+
+You augment an item or weapon with the element of lightning, the element itself doesn't damage the thing getting augmented. Any attacks made with said item or weapon has an extra 1d8 lightning damage and cause the target to break concentration on a failed constitution save.
+
+_Non-derived_
+
 ### Three-Chi Powers
 
 #### Lightning Orb
