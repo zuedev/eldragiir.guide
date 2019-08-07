@@ -50,9 +50,9 @@ You can only do either of these once per short rest.
 ### Traditional Weapon Training
 Being an elemental bender, you have mastered the art of using your weapon skills in tandem with your elemental bending. Upon reaching 5th level, when you make an attack with any traditional bending weapons, see table below, you can use a bonus action to do a bending technique that normally takes 1 action.
 
-| Element | Weapon(s)|
-|:-:|:-:|
-| Fire | Scimitar, Glaive |
+| Element | Melee | Ranged |
+|:-:|:-:|:-:|
+| Fire | [Scimitar](https://roll20.net/compendium/dnd5e/Items:Scimitar), [Glaive](https://roll20.net/compendium/dnd5e/Items:Glaive), [Whip](https://roll20.net/compendium/dnd5e/Items:Whip)| [Blowgun](https://roll20.net/compendium/dnd5e/Items:Blowgun), [Heavy Crossbow](https://roll20.net/compendium/dnd5e/Items:Heavy%20Crossbow) |
 
 ## Fire Bending (Level 1+)
 
