@@ -245,7 +245,7 @@ ___
 - **Components:** S, C (2)
 - **Duration:** Instantaneous
 
-You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range by making a ranged spell attack against the target. If the attack hits, the creature takes 3d8 lightning damage This spell's effects can be amplified with chi!
+You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range by making a ranged spell attack against the target. If the attack hits, the creature takes 3d8 lightning damage. This spell's effects can be amplified with chi!
 
 ##### Chi Amplification
 
@@ -257,3 +257,19 @@ You hurl a 4-inch-diameter sphere of energy at a creature that you can see withi
 | 10 | 6d8 |
 
 _Derived from [Chromatic Orb](https://roll20.net/compendium/dnd5e/Chromatic%20Orb)_
+
+### Eight-Chi Powers
+
+#### Chain Lightning
+*Mass-electricution never looked so good*
+___
+- **Casting Time:** 1 action
+- **Range:** 150 Feet
+- **Components:** V, S, C (8)
+- **Duration:** Instantaneous
+
+You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts. A target must make a Dexterity saving throw. The target takes 12d4 lightning damage on a failed save, or half as much damage on a successful one.
+
+**Warning:** The caster of this technique must succeed a Dexterity saving throw in order to not be hit by half of the damage dealt to the target.
+
+_Derived from [Chain Lightning](https://roll20.net/compendium/dnd5e/Chain%20Lightning)_
