@@ -156,6 +156,18 @@ You touch a willing creature. Until the spell ends, the target’s skin/armour i
 
 _Derived from [Dancing Lights](https://roll20.net/compendium/dnd5e/Dancing%20Lights)_
 
+#### Scorching File
+*Ever heard of walking on coals? Yeah, this is worse*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, C (2)
+- **Duration:** Instantaneous
+
+A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.
+
+_Derived from [Aganazzar's Scorcher](https://roll20.net/compendium/dnd5e/Aganazzar's%20Scorcher)_
+
 ### Three-Chi Powers
 
 #### Dragon's Breath
