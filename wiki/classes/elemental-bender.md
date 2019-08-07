@@ -206,6 +206,26 @@ You touch one willing creature and imbue it with the power to spew magical energ
 
 _Derived from [Dragon's Breath](https://roll20.net/compendium/dnd5e/Dragon's%20Breath)_
 
+#### Scorching Ray
+*For when you're facing a tank, essentially*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, C (3)
+- **Duration:** Instantaneous
+
+You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several. Make a ranged spell attack for each ray. On a hit, the target takes 2d8 fire damage. This technique can be amplified with chi!
+
+##### Chi Amplification
+
+| Extra Chi | Damage | # of Rays |
+|:-:|:-:|:-:|
+| 1 | 2d8 + 2 | 3 |
+| 3 | 2d8 + 4 | 4 |
+| 7 | 2d8 | 6 |
+
+_Derived from [Scorching Ray](https://roll20.net/compendium/dnd5e/Scorching%20Ray)_
+
 ### Six-Chi Powers
 
 #### Fireball
