@@ -213,6 +213,28 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 _Derived from [Shocking Grasp](https://roll20.net/compendium/dnd5e/Shocking%20Grasp)_
 
+### One-Chi Powers
+
+#### Lightning Bolt
+*Absolutely Shocking!!*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 Feet
+- **Components:** S, C (1)
+- **Duration:** Instantaneous
+
+A beam of crackling, blue energy lances out toward a creature within range, forming an unstable arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage. This spell's effects can be amplified with chi!
+
+##### Chi Amplification
+
+| Extra Chi | Damage |
+|:-:|:-:|
+| 1 | 1d12 + 4 |
+| 3 | 2d12 + 4 |
+| 7 | 4d12 |
+
+_Derived from [Witch Bolt](https://roll20.net/compendium/dnd5e/Witch%20Bolt)_
+
 ### Two-Chi Powers
 
 #### Lightning Orb
@@ -220,7 +242,7 @@ _Derived from [Shocking Grasp](https://roll20.net/compendium/dnd5e/Shocking%20Gr
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 Feet
-- **Components:** S
+- **Components:** S, C (2)
 - **Duration:** Instantaneous
 
 You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range by making a ranged spell attack against the target. If the attack hits, the creature takes 3d8 lightning damage This spell's effects can be amplified with chi!
