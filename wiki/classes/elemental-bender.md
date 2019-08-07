@@ -187,3 +187,28 @@ ___
 A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
 
 _Derived from [Fireball](https://roll20.net/compendium/dnd5e/Fireball)_
+
+## Lightning Bending (Level 4+)
+
+### Zero-Chi Powers
+
+#### Shocking Grasp
+*My dad always said I needed a firmer handshake*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** S
+- **Duration:** Instantaneous
+
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take reactions until the start of its next turn. This spell's effects can be amplified with chi!
+
+##### Chi Amplification
+
+| Chi Cost | Damage |
+|:-:|:-:|
+| 1 | 1d8 + 4 |
+| 2 | 2d8 |
+| 4 | 3d8 |
+| 10 | 4d8 |
+
+_Derived from [Shocking Grasp](https://roll20.net/compendium/dnd5e/Shocking%20Grasp)_
