@@ -182,6 +182,8 @@ ___
 
 A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried. This technique can be amplified with chi!
 
+**Warning:** The caster of this technique must succeed a Dexterity saving throw equal to the difference between the caster's spell save DC minus their elemental bender level, failing this save will cause the caster to take half of the damage dealt to the target.
+
 ##### Chi Amplification
 
 | Extra Chi | Damage | AoE |
@@ -275,6 +277,6 @@ ___
 
 You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts. A target must make a Dexterity saving throw. The target takes 12d4 lightning damage on a failed save, or half as much damage on a successful one.
 
-**Warning:** The caster of this technique must succeed a Dexterity saving throw in order to not be hit by half of the damage dealt to the target.
+**Warning:** The caster of this technique must succeed a Dexterity saving throw equal to the difference between the caster's spell save DC minus their elemental bender level, failing this save will cause the caster to take half of the damage dealt to the target.
 
 _Derived from [Chain Lightning](https://roll20.net/compendium/dnd5e/Chain%20Lightning)_
