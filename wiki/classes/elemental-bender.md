@@ -63,10 +63,18 @@ Being an elemental bender, you have mastered the art of using your weapon skills
 ___
 - **Casting Time:** 1 action
 - **Range:** Self
-- **Components:** V, S
+- **Components:** S
 - **Duration:** 10 minutes
 
-A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again. You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage. This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again. You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage. This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). This technique can be amplified with chi!
+
+##### Chi Amplification
+
+| Extra Chi | Damage |
+|:-:|:-:|
+| 2 | 1d8 + 4 |
+| 5 | 2d8 + 4 |
+| 8 | 2d12 + 6 |
 
 _Derived from [Dancing Lights](https://roll20.net/compendium/dnd5e/Dancing%20Lights)_
 
@@ -141,7 +149,7 @@ _Non-derived_
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
-- **Components:** V, S, C (2)
+- **Components:** V, C (2)
 - **Duration:** Concentration, Up to 1 hour
 
 You touch a willing creature. Until the spell ends, the target’s skin/armour is enveloped in magical flame, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing. Any contact with the fireskin, such as melee attacks, causes 1d6 fire damage. And the target also takes half damage from all fire-based attacks whilst wearing the fireskin.
@@ -162,17 +170,26 @@ You touch one willing creature and imbue it with the power to spew magical energ
 
 _Derived from [Dragon's Breath](https://roll20.net/compendium/dnd5e/Dragon's%20Breath)_
 
-### 5-Chi Powers
+### Six-Chi Powers
 
 #### Fireball
 *Protection using the power of flame*
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet
-- **Components:** V, S, C (5)
+- **Components:** V, S, C (6)
 - **Duration:** Instantaneous
 
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
+A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried. This technique can be amplified with chi!
+
+##### Chi Amplification
+
+| Extra Chi | Damage | AoE |
+|:-:|:-:|:-:|
+| 6 | 8d6 + 6 | 25-foot sphere |
+| 10 | 10d8 | 30-foot sphere |
+| 12 | 10d12 | 40-foot sphere |
+
 
 _Derived from [Fireball](https://roll20.net/compendium/dnd5e/Fireball)_
 
@@ -188,7 +205,7 @@ ___
 - **Components:** S
 - **Duration:** Instantaneous
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take reactions until the start of its next turn. This spell's effects can be amplified with chi!
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take reactions until the start of its next turn. This technique can be amplified with chi!
 
 ##### Chi Amplification
 
@@ -211,7 +228,7 @@ ___
 - **Components:** S, C (1)
 - **Duration:** Instantaneous
 
-A beam of crackling, blue energy lances out toward a creature within range, forming an unstable arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage. This spell's effects can be amplified with chi!
+A beam of crackling, blue energy lances out toward a creature within range, forming an unstable arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage. This technique can be amplified with chi!
 
 ##### Chi Amplification
 
@@ -233,7 +250,7 @@ ___
 - **Components:** S, C (2)
 - **Duration:** Instantaneous
 
-You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range by making a ranged spell attack against the target. If the attack hits, the creature takes 3d8 lightning damage. This spell's effects can be amplified with chi!
+You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range by making a ranged spell attack against the target. If the attack hits, the creature takes 3d8 lightning damage. This technique can be amplified with chi!
 
 ##### Chi Amplification
 
