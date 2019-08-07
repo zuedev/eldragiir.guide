@@ -204,7 +204,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 ##### Chi Amplification
 
-| Chi Cost | Damage |
+| Extra Chi | Damage |
 |:-:|:-:|
 | 1 | 1d8 + 4 |
 | 2 | 2d8 |
@@ -212,3 +212,26 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 | 10 | 4d8 |
 
 _Derived from [Shocking Grasp](https://roll20.net/compendium/dnd5e/Shocking%20Grasp)_
+
+### Two-Chi Powers
+
+#### Lightning Orb
+*It's like a taser, but lethal!*
+___
+- **Casting Time:** 1 action
+- **Range:** 90 Feet
+- **Components:** S
+- **Duration:** Instantaneous
+
+You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range by making a ranged spell attack against the target. If the attack hits, the creature takes 3d8 lightning damage This spell's effects can be amplified with chi!
+
+##### Chi Amplification
+
+| Extra Chi | Damage |
+|:-:|:-:|
+| 2 | 3d8 + 6 |
+| 3 | 4d8 + 2 |
+| 6 | 5d8 |
+| 10 | 6d8 |
+
+_Derived from [Chromatic Orb](https://roll20.net/compendium/dnd5e/Chromatic%20Orb)_
