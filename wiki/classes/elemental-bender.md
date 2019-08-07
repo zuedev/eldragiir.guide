@@ -180,6 +180,18 @@ A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice w
 
 _Derived from [Flaming Sphere](https://roll20.net/compendium/dnd5e/Flaming%20Sphere)_
 
+#### Heat Metal
+*For when you're facing a tank, essentially*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** S, C (2)
+- **Duration:** Concentration, Up to 1 minute
+
+Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again. If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+
+_Derived from [Heat Metal](https://roll20.net/compendium/dnd5e/Heat%20Metal)_
+
 ### Three-Chi Powers
 
 #### Dragon's Breath
