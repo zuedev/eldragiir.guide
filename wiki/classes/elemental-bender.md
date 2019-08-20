@@ -324,28 +324,26 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 
 _Derived from [Witch Bolt](https://roll20.net/compendium/dnd5e/Witch%20Bolt)_
 
-## Two-Chi Powers
-
 #### Lightning Aspect
 *You can make stun batons with this!*
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch
-- **Components:** V, S. C (2)
+- **Components:** V, S. C (1)
 - **Duration:** 10 minutes
 
 You augment an item or weapon with the element of lightning, the element itself doesn't damage the thing getting augmented. Any attacks made with said item or weapon has an extra 1d8 lightning damage and cause the target to break concentration on a failed constitution save.
 
 _Non-derived_
 
-### Three-Chi Powers
+### Two-Chi Powers
 
 #### Lightning Orb
 *It's like a taser, but lethal!*
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 Feet
-- **Components:** V, S, C (3)
+- **Components:** V, S, C (2)
 - **Duration:** Instantaneous
 
 You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range by making a ranged spell attack against the target. If the attack hits, the creature takes 3d8 lightning damage. This technique can be amplified with chi!
@@ -361,14 +359,14 @@ You hurl a 4-inch-diameter sphere of energy at a creature that you can see withi
 
 _Derived from [Chromatic Orb](https://roll20.net/compendium/dnd5e/Chromatic%20Orb)_
 
-### Eight-Chi Powers
+### Six-Chi Powers
 
 #### Chain Lightning
 *Mass-electricution never looked so good*
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 Feet
-- **Components:** V, S, C (8)
+- **Components:** V, S, C (6)
 - **Duration:** Instantaneous
 
 You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts. A target must make a Dexterity saving throw. The target takes 12d4 lightning damage on a failed save, or half as much damage on a successful one.
