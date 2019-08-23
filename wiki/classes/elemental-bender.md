@@ -48,7 +48,7 @@ This does two things:
 You can only do either of these once per short rest.
 
 ### Traditional Weapon Training
-Being an elemental bender, you have mastered the art of using your weapon skills in tandem with your elemental bending. Upon reaching 5th level, when you make an attack with any traditional bending weapons, see table below, you can use a bonus action to do a bending technique that normally takes 1 action.
+Being an elemental bender, you have mastered the art of using your weapon skills in tandem with your elemental bending. Upon reaching 5th level, when you make an attack with any traditional bending weapons, see table below, you can use a bonus action to do a bending technique that normally takes 1 action. You also gain mastery in any traditional weapons you use.
 
 | Element | Melee | Ranged |
 |:-:|:-:|:-:|
@@ -302,8 +302,6 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 _Derived from [Shocking Grasp](https://roll20.net/compendium/dnd5e/Shocking%20Grasp)_
 
-### One-Chi Powers
-
 #### Lightning Bolt
 *Absolutely Shocking!!*
 ___
@@ -323,6 +321,8 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 | 7 | 4d12 |
 
 _Derived from [Witch Bolt](https://roll20.net/compendium/dnd5e/Witch%20Bolt)_
+
+### One-Chi Powers
 
 #### Lightning Aspect
 *You can make stun batons with this!*
