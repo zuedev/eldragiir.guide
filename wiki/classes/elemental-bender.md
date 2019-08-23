@@ -15,7 +15,7 @@
 | 2nd | +2 | 1d4 | - | - | Element Redirect, Chi Tapping |
 | 3rd | +2 | 1d4 | 1d4 | - | Focus Energy |
 | 4th | +2 | 1d4 | 1d4 | 1 | Ability Score Improvement, Elemental Mastery |
-| 5th | +3 | 1d6 | 1d4 | 1 | Traditional Weapon Training |
+| 5th | +3 | 1d6 | 1d4 | 1 | Traditional Weapon Training, Intense Release |
 
 ## Class Features
 
@@ -46,7 +46,10 @@ Being an elemental bender, you have mastered the art of using your weapon skills
 
 | Element | Melee | Ranged |
 |:-:|:-:|:-:|
-| Fire | [Scimitar](https://roll20.net/compendium/dnd5e/Items:Scimitar), [Glaive](https://roll20.net/compendium/dnd5e/Items:Glaive), [Whip](https://roll20.net/compendium/dnd5e/Items:Whip)| [Blowgun](https://roll20.net/compendium/dnd5e/Items:Blowgun), [Heavy Crossbow](https://roll20.net/compendium/dnd5e/Items:Heavy%20Crossbow) |
+| Fire | [Scimitar](https://roll20.net/compendium/dnd5e/Items:Scimitar), [Glaive](https://roll20.net/compendium/dnd5e/Items:Glaive), [Whip](https://roll20.net/compendium/dnd5e/Items:Whip)| All Guns |
+
+### Intense Release
+Starting at 5th level, if you are restrained in any way, you can cause your body to reach extremely high temperatures to break the bonds as an action. Metal bonds, like handcuffs, may take several minutes or maybe hours to break, up to the DM. This ability can also be used so that if anyone makes physical contact with you, they will take 1d6 points of Fire damage. This buff lasts for 1 hour, or you can cancel it without taking an action. It can instead be used to create an explosion around you as an action. It has a 15 foot radius centered on you, dealing 6d8 damage to all creatures and objects within the radius besides you. You must complete a long rest before using this feature again.
 
 ## Fire Bending (Level 1+)
 
