@@ -7,7 +7,7 @@ It takes the appearance of a pair of gilded golden gauntlets that radiates from 
 
 # Purpose
 
-The Infinity Claws were forged to allow the Celestials to manipulate the mystical [Shards of Creation](shards_of_creation.md). The talon like fingers shred the fabric of reality due to the demonic enchantments and can sever the anchoring of the shards into reality, allowing them to be moved freely for a time. This, however, cause a hole in reality itself where the fabric was shredded and can lead to catastrophic consequences.
+The Infinity Claws were forged to allow the Celestials to manipulate the mystical [Shards of Creation](shards-of-creation.md). The talon like fingers shred the fabric of reality due to the demonic enchantments and can sever the anchoring of the shards into reality, allowing them to be moved freely for a time. This, however, cause a hole in reality itself where the fabric was shredded and can lead to catastrophic consequences.
 
 
 >>> 
