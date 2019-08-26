@@ -18,7 +18,8 @@ If the shards were to be reunited with the Heart, it would certainly manage to m
 
 
 
->>>> 
+>>> 
 #### GM NOTED - SPOILERS
 
 Maybe that is what the Silent King did to stop the cataclysm, acquiring a shard and returning it to the heart, strengthening the heart enough to secure the planes for a while. But the power still decays and it will require more soon.
+>>>
