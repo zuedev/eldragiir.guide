@@ -580,10 +580,10 @@ Choose a point you can see on the ground within range. A fountain of churned ear
 
 | Extra Chi | Damage  | Cube Size |
 | :-------: | :-----: | :-: |
-|     1     | 2d12 + 4 | 20-foot |
-|     3     | 3d12 | 20-foot |
-|     5     | 3d12 | 30-foot |
-|     9     | 4d12 | 35-foot |
+|     1     | 3d12 + 4 | 20-foot |
+|     3     | 4d12 | 20-foot |
+|     5     | 5d12 | 30-foot |
+|     9     | 5d12 | 45-foot |
 
 _Derived from [Erupting Earth](https://roll20.net/compendium/dnd5e/Erupting%20Earth)_
 
