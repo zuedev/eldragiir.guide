@@ -8,7 +8,7 @@
 
 #### Calculating Chi
 
-Your Chi is equal to the sum of your Charisma, Dexterity, and Elemental Bender Level, plus how many Chakras you have cleared multiplied by two. In order to use your Chi points, your Chakras must be clear to allow the flow of Chi to run through your body.
+Your Chi is equal to the sum of your Charisma, Dexterity, proficiency level, and Elemental Bender Level, plus how many Chakras you have cleared multiplied by two. In order to use your Chi points, your Chakras must be clear to allow the flow of Chi to run through your body.
 
 ## Class Table
 
