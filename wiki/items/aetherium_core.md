@@ -14,6 +14,7 @@ The Aetherium core provide powers to its associated systems. If removed or disru
 The Core has a number of structural hitpoints representing the stability and resistance of the core to damage. If the Core hitpoints fall to 0, it will suffer catastrophic failure and will cause a massive explosion in a radius of 100ft and will cause 250 points of raw magical damage to any creature caught in the blast.
 
 Structural hit points : 10
+
 AC : 22 
 
 Any hit that go through the Core's AC will cause 1 point of structural damage. A critical success will cause 2. The Core can also be damaged by using subsystems or by external factors at the DM's discretion.
