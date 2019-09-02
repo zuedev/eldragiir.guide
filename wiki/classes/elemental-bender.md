@@ -219,7 +219,7 @@ _Protection using the power of flame_
 
 You touch a willing creature. Until the spell ends, the target’s skin/armour is enveloped in magical flame, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing. Any contact with the fireskin, such as melee attacks, causes 1d6 fire damage. And the target also takes half damage from all fire-based attacks whilst wearing the fireskin.
 
-_Derived from [Dancing Lights](https://roll20.net/compendium/dnd5e/Dancing%20Lights)_
+_Derived from [Barkskin](https://roll20.net/compendium/dnd5e/Barkskin)_
 
 #### Scorching File
 
@@ -544,7 +544,7 @@ _Bring the earth to the enemy!_
 - **Components:** V, S, C (2)
 - **Duration:** Concentration, Up to 1 minute
 
-Choose one creature you can see within range. Thick ropes of earth loop around the creature from the ground. The target must succeed on a Strength saving throw, or its speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.
+Choose one creature you can see within range. Thick ropes of earth loop around the creature from the ground. The target must succeed on a Strength saving throw, or its speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends. Whilst on the ground, the creature is considered grappled.
 
 _Derived from [Earthbind](https://roll20.net/compendium/dnd5e/Earthbind)_
 
@@ -562,6 +562,21 @@ _Did somebody call for sandman?_
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration. As an action, you can cause the hand to crush the restrained target, which must make a Strength saving throw. The target takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one. To break out, the restrained target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand. As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
 _Derived from [Maximillian's Earthen Grasp](https://roll20.net/compendium/dnd5e/Maximillian's%20Earthen%20Grasp)_
+
+#### Stoneskin
+
+_Big rock-boy hours_
+
+---
+
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S, C (2)
+- **Duration:** Concentration, Up to 1 hour
+
+This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage, as well as any elemental-based damage. Whilst wearing stoneskin, the user is considered encumbered, unless they are already encumbered, then they are heavily encumbered.
+
+_Derived from [Stoneskin](https://roll20.net/compendium/dnd5e/Stoneskin)_
 
 ### Four-Chi Powers
 
