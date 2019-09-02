@@ -17,3 +17,7 @@ The Storm Islands are part of the many islands constituting of the Shattered Coa
 ## Storm Walls
 
 The Storm Walls is the name given to the range of mountains found south of the Shattered Coast, marking the limit between it and the Sands of Woe. South of these mountains, the sandstorms rage and batter against the mountain. There are a few valleys that daring adventurers can follow to move deeper south but they are also the home of many creatures seeking shelter from the unnatural storms.
+
+### The Howling Valley
+
+The Howling valley is one of the rare passages that leads through the Storm Walls into the Sands of Woe. It is named like this due to the violent winds that rush up the valley from the desert. These winds can sweep adventurers off their feet and carry them far away. Creatures seek shelter in the many caverns that dot the landscape and they will protect their safe spots with ferocity.
