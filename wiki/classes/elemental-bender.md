@@ -14,13 +14,14 @@ Your Chi is equal to the sum of your Charisma, Dexterity, proficiency level, and
 
 ### Elemental Bender
 
-| Level | Prof. Bonus | Chi Tapping | Focus Energy | Adv. Techniques |                    Features                     |
-| :---: | :---------: | :---------: | :----------: | :-------------: | :---------------------------------------------: |
-|  1st  |     +2      |      -      |      -       |        -        |       Elemental Bending, Powerful Defense       |
-|  2nd  |     +2      |     1d4     |      -       |        -        |          Element Redirect, Chi Tapping          |
-|  3rd  |     +2      |     1d4     |     1d4      |        -        |                  Focus Energy                   |
-|  4th  |     +2      |     1d4     |     1d4      |        1        |  Ability Score Improvement, Elemental Mastery   |
-|  5th  |     +3      |     1d6     |     1d4      |        1        | Traditional Equipment Training, Intense Release |
+| Level | Prof. Bonus | Chi Tapping | Adv. Techniques |                    Features                     |
+| :---: | :---------: | :---------: | :-------------: | :---------------------------------------------: |
+|  1st  |     +2      |      -      |        -        |       Elemental Bending, Powerful Defense       |
+|  2nd  |     +2      |     1d4     |        -        |          Element Redirect, Chi Tapping          |
+|  3rd  |     +2      |     1d4     |        -        |                  Traditional Equipment Training, Elemental Block                   |
+|  4th  |     +2      |     1d4     |        1        |  Ability Score Improvement, Elemental Mastery   |
+|  5th  |     +3      |     1d6     |        1        | Intense Release |
+|  6th  |     +3      |     1d6     |        2        | Hybrid Bending |
 
 ## Class Features
 
@@ -32,9 +33,6 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 
 At 2nd level, any time you are hit by a ranged, elemental-based attack (this will apply most often to spells, but counters mundane elements as well), you can roll a d20 and add your spell attack bonus. If the result is higher than the attack roll, you are able to redirect the path of the attack within a 160 degree cone behind yourself. If it is equal or lower, you can only redirect it partially within a 45 degree cone behind you and take half damage. This ability works for attacks that require you to make a saving throw as well (such as the Fireball spell). For that, the process is the same, you just follow this process rather than making the saving throw, and the DC of your roll is the save DC, not the attack roll.
 
-### Chi Tapping
-
-At 2nd level, you can tap into your element's key emotion to regain energy. If your chi point total reaches 0, you can roll your Focus Energy die without an action or reaction, and gain that many chi points. You cannot exceed your maximum number of chi points. This die increases as you level up. You must complete a long rest before using this feature again.
 
 ### Focus Energy
 
@@ -44,18 +42,9 @@ Whenever you deal elemental damage, you can take a bonus action to deal an extra
 
 At 3rd level, any time you are hit by a ranged, elemental-based attack (this will apply most often to spells, but counters mundane elements as well), you can roll a d20 and add your spell attack bonus. If the result is higher than the attack roll, you simply take no damage and any splash damage is halved. If it is equal or lower, you take half damage whilst not affacting any splash damage. This ability works for attacks that require you to make a saving throw as well (such as the Fireball spell). For that, the process is the same, you just follow this process rather than making the saving throw, and the DC of your roll is the save DC, not the attack roll.
 
-### Elemental Mastery
-
-This does two things:
-
-1.  **Elemental Redirect+:** Same as Elemental Redirect, except if you roll higher than the attack roll, you can choose to spend 1 Chi point to redirect the attack to any other target within the range of the original attack from yourself. If it is equal or lower, you simply redirect it as normal.
-2.  **Elemental Block+:** Same as Elemental Block, except if you roll higher than the attack roll, you can choose to spend 1 Chi point to gamble "absorbing" the elemental attack for bonus Chi equal to it's spell cast level and no higher than your max Chi points, otherwise you will fail in absorbing the elemental attack and will take half damage of the attack. If it is equal or lower, you simply redirect it as normal.
-
-You can only do either of these once per short rest.
-
 ### Traditional Equipment Training
 
-Being an elemental bender, you have mastered the art of using your own equipment to augment your bending skills, allowing you to use certain armor and weapons in tandem with your elemental bending. Upon reaching 5th level, you are able to do the following:
+Being an elemental bender, you have mastered the art of using your own equipment to augment your bending skills, allowing you to use certain armor and weapons in tandem with your elemental bending. Upon reaching 3rd level, you are able to do the following:
 
 - When you make an attack with any traditional weapons, you can use a bonus action to do a bending technique that normally takes 1 action.
 - When you are hit by an attack and have any traditional armor equipped, you can use a reaction to do a bending technique that normally takes 1 bonus action.
@@ -92,9 +81,22 @@ _\* Fire bending only works with firearms that use gunpowder or another explosiv
 - Cannon
 - Bamboo ladders
 
+### Elemental Mastery
+
+This does two things:
+
+1.  **Elemental Redirect+:** Same as Elemental Redirect, except if you roll higher than the attack roll, you can choose to spend 1 Chi point to redirect the attack to any other target within the range of the original attack from yourself. If it is equal or lower, you simply redirect it as normal.
+2.  **Elemental Block+:** Same as Elemental Block, except if you roll higher than the attack roll, you can choose to spend 1 Chi point to gamble "absorbing" the elemental attack for bonus Chi equal to it's spell cast level and no higher than your max Chi points, otherwise you will fail in absorbing the elemental attack and will take half damage of the attack. If it is equal or lower, you simply redirect it as normal.
+
+You can only do either of these once per short rest.
+
 ### Intense Release
 
-Starting at 5th level, if you are restrained in any way, you can cause your body to reach extremely high temperatures to break the bonds as an action. Metal bonds, like handcuffs, may take several minutes or maybe hours to break, up to the DM. This ability can also be used so that if anyone makes physical contact with you, they will take 1d6 points of Fire damage. This buff lasts for 1 hour, or you can cancel it without taking an action. It can instead be used to create an explosion around you as an action. It has a 15 foot radius centered on you, dealing 6d8 damage to all creatures and objects within the radius besides you. You must complete a long rest before using this feature again.
+Starting at 5th level, if you are restrained in any way, you can cause your body to reach extremely high temperatures to break the bonds as an action. Metal bonds, like handcuffs, may take several minutes or maybe hours to break, up to the DM. This ability can also be used so that if anyone makes physical contact with you, they will take 1d6 points of Fire damage. This buff lasts for 1 hour, or you can cancel it without taking an action. It can instead be used to create an explosion around you. It has a 15 foot radius centered on you, dealing 6d8 damage to all creatures and objects within the radius besides you. You must complete a long rest before using this feature again.
+
+### Hybrid Bending
+
+Cool new stuff, need to write up! <!-- TODO -->
 
 ## Fire Bending (Level 1+)
 
