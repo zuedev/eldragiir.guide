@@ -7,6 +7,9 @@ Due to the unstable nature of aetherium energy discharges, the weapon is still i
 >>>
 #### Game mechanics
 
+Range : 300 ft beam (hit)
+Modifiers : +1 to Hit (targeting optics can be improved)
+
 On a hit, the Aetherium lance deals 100 point of magical damage. If the target has magic resistance, this resistance is shattered after the first hit until it takes a long rest.
 
 When making an attack with the Lance, roll a d100. The first time it fires, it has a 15% chance of misfire. This misfire chance doubles everytime you fire without letting the weapon cool down for one hour (15% for the first shot, 30% for the next, 60%, 90%). The fifth shot will alaways result in a critical misfire and will cause it to explode as well as the associated aetherium core. 
