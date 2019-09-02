@@ -1,6 +1,6 @@
 # The Shattered Coast
 
-The Shattered Coast is located north of the Sands of Woe. It is called as such for the many small islands and reefs that dot the coastal line at this location. The only safe way for any boat to reach the shoreline safely is to follow the Marius Passage that leads to Cliffport. Only the bravest or foolest of captains attempt to navigate the reefs and shallows along the coast.
+The Shattered Coast is located north of the [Sands of Woe](sands_of_woe.md). It is called as such for the many small islands and reefs that dot the coastal line at this location. The only safe way for any boat to reach the shoreline safely is to follow the Marius Passage that leads to Cliffport. Only the bravest or foolest of captains attempt to navigate the reefs and shallows along the coast.
 
 ## Marius Passage
 
