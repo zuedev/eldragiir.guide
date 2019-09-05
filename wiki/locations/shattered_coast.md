@@ -10,6 +10,12 @@ Marius Passage is the name of the relatively safe passage that leads to the shor
 
 Cliffport was established as an Imperial outpost along the coast. It is a safe place for adventurers who wish to explore deeper south and along the coast. The town has also become a resupply point for vessels travelling up and down the coast. The town is protected by an imperial fortress located on one of the island nearby.
 
+## Spider Rock
+
+Spider Rock is located Northwest of Cliffport, along the coast. It is a large rock, rising up from the sea all the way up to the top of the cliffs forming the shoreline. It is connected to the cliffs with an old wooden hanging bridge. The rock is the home a colony of Phase Spiders and generous quantities of silky webs can be seen adorning the rocks and the many caves entrances. The silk can be harvested as a trade good but the presence of the spiders make it very deadly and usually not worthwhile for the locals. 
+
+During great storms, swaths of webs can be torn away by the powerful winds and carried over great distances, even inside of Cliffport. These webs often carry several spiders that were residing in them which explain why the phase spiders are spread so far around Spider Rock. Some say that the Phase Spiders producing the fabled elven silk in the Silver Islands come from this place and were transported across the seas in one of the biggest storm the coast ever saw.
+
 ## Storm Islands
 
 The Storm Islands are part of the many islands constituting of the Shattered Coast and are located to the northwest. Many of them are shaped like sharp needles launching toward the skies. Thunder storms are constantly brewing from them and navigation is very hazardous. It is said that the storms are caused by some ancient creatures slumbering in these islands.
