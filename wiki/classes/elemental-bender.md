@@ -401,7 +401,7 @@ _Absolutely Shocking!!_
 
 - **Casting Time:** 1 action
 - **Range:** 30 Feet
-- **Components:** S, C (1)
+- **Components:** S
 - **Duration:** Instantaneous
 
 A beam of crackling, blue energy lances out toward a creature within range, forming an unstable arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage. This technique can be amplified with chi!
