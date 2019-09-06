@@ -306,6 +306,29 @@ You create three rays of fire and hurl them at targets within range. You can hur
 
 _Derived from [Scorching Ray](https://roll20.net/compendium/dnd5e/Scorching%20Ray)_
 
+#### Flame Whip
+
+_Like Indiana Jones, but better, because of fire_
+
+---
+
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, C (3)
+- **Duration:** Concentration, Up to 10 minutes
+
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action. You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage. The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+##### Chi Amplification
+
+| Extra Chi | Damage  |
+| :-------: | :-----: |
+|     2     | 3d6 + 3 |
+|     6     | 4d6 + 4 |
+|     10     |   5d6 + 2   |
+
+_Derived from [Flame Blade](https://roll20.net/compendium/dnd5e/Flame%20Blade)_
+
 ### Four-Chi Powers
 
 #### Wall of Fire
@@ -656,3 +679,24 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure’s height must make a Dexterity saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.
 
 _Derived from [Earthquake](https://roll20.net/compendium/dnd5e/Earthquake)_
+
+## Metal Bending (Level 4+)
+
+### Ten-Chi Powers
+
+#### Blade Barrier
+
+_A fucking wall of swords, man!_
+
+---
+
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S, C (10)
+- **Duration:** Concentration, Up to 10 minutes
+
+You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three-quarters cover to creatures behind it, and its space is difficult terrain.
+
+When a creature enters the wall’s area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage.
+
+_Derived from [Blade Barrier](https://roll20.net/compendium/dnd5e/Blade%20Barrier)_
