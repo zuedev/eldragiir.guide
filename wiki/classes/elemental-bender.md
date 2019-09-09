@@ -718,7 +718,7 @@ _I. AM. IRON MAN!_
 - **Components:** V, S, C (2), M (Enough metal to cover the creature, see description)
 - **Duration:** Concentration, Up to 10 minutes
 
-You target one willing creature, including yourself, and call metal to them equal to their size, their Armor Class is 17 plus your Dexterity modifier and they do not suffer a penalty to your movement speed.
+You target one willing creature, including yourself, and call metal to them equal to their size, their Armor Class is 17 plus your Dexterity modifier and they do not suffer a penalty to their movement speed.
 
 ##### Component Table
 
