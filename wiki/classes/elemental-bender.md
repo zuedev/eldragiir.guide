@@ -705,6 +705,37 @@ _Derived from [Earthquake](https://roll20.net/compendium/dnd5e/Earthquake)_
 
 ## Metal Bending (Level 4+)
 
+### Two-Chi Powers
+
+#### Metalskin
+
+_I. AM. IRON MAN!_
+
+---
+
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, C (2), M (Enough metal to cover the creature, see description)
+- **Duration:** Concentration, Up to 10 minutes
+
+You target one willing creature, including yourself, and call metal to them equal to their size, their Armor Class is 17 plus your Dexterity modifier and they do not suffer a penalty to your movement speed.
+
+##### Component Table
+
+| Tartget Size | Amount of Metal Required (cubic feet)  | Extra Chi Required (if any) |
+| :-------: | :-----: | :-----: |
+|     Tiny     | 0.25 | 2 |
+|     Small     | 0.75 | 1 |
+|     Medium     |   1   | 0 |
+|    Large     |   4   | 2 |
+|    Huge     |   9   | 6 |
+|    Gargantuan     |   16   | 10 |
+
+###### Average "Medium" Human Calc:
+![](https://cdn.discordapp.com/attachments/385124268431638539/620612577613053969/unknown.png)
+
+_Non-derived_
+
 ### Ten-Chi Powers
 
 #### Blade Barrier
