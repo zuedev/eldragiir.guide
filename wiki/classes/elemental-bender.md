@@ -221,6 +221,29 @@ You touch a willing creature. Until the spell ends, the target’s skin/armour i
 
 _Derived from [Barkskin](https://roll20.net/compendium/dnd5e/Barkskin)_
 
+#### Fire Daggers
+
+_A fire warrior's backup-backup weapons_
+
+---
+
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** C (2)
+- **Duration:** 10 minutes
+
+You gain two weightless fire-based weapons that you are a master of. Each fire dagger acts exactly the same as a regular dagger, except it does fire damage instead. Both daggers can be turned into a firebolt with a bonus action, or done seperately. This technique can be amplified with chi!
+
+##### Chi Amplification
+
+| Extra Chi | Weapon Modifier  |
+| :-------: | :-----: |
+|     2     | +1 |
+|     4     | +2 |
+|     6     | +3 |
+
+_Non-derived_
+
 #### Scorching File
 
 _Ever heard of walking on coals? Yeah, this is worse_
