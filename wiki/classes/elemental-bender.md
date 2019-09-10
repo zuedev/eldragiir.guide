@@ -1,5 +1,9 @@
 # Elemental Bender
 
+## Introduction
+
+Bending is the ability to manipulate an elements form and shape. There are four known bending arts each bending a specific physical element. The four elemental bending arts are based on the four classical elements, water, earth, fire, and air, and each is manipulated through certain martial art styles which are reminiscent of the qualities of the element itself. While bending is traditionally performed through the motions of one's hands and feet, skilled benders are able to effectively manipulate their element with only minimal movement of their body, such as by using just their head or torso. In even rarer cases, master benders are able to perform their bending without the aid of any physical movement at all, by instead using sheer focus and force of will, a skill known as psychic bending.
+
 ## New Components
 
 | Key | Value | Details                                                     |
