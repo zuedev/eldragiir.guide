@@ -2,8 +2,7 @@
 
 ## Draft Notes
 
-- Archangels are "leaders" of common angels, typically chosen to champion for a certain god
-- Lesdan's patron god is [Tormial](tormial.md), God of Peace
+- Lesdan is an [Archangel](/concepts/archangel.md) of [Tormial](tormial.md), God of Peace
 - Lesdan's symbol is that of a shield adorned with blossoming roses
 - Lesdan uses a shield to protect the innocent from the wicked
 - Lesdan wields no weapon, they instead use pacification and banishment spells to strike down the wicked

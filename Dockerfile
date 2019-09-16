@@ -8,6 +8,6 @@ RUN npm install
 
 COPY src/wiki/ ./wiki
 
-EXPOSE 80
+EXPOSE 5000
 
 CMD [ "npm", "run", "prod" ]
