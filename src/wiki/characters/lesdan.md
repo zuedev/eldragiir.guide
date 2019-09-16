@@ -12,4 +12,4 @@
 
 ## Reference Image
 
-![](https://i.imgur.com/l9hCKmP.png)
+![](/.assets/img/lesdan.png)
