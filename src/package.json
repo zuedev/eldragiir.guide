@@ -1,0 +1,17 @@
+{
+  "name": "unnamed-domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "markserv": "^1.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "markserv wiki",
+	"prod": "markserv -p 80 -a 0.0.0.0 wiki"
+  },
+  "author": "",
+  "license": "ISC"
+}
