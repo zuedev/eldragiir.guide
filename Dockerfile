@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY src/package*.json ./
 
-RUN npm install
+RUN npm install && npx patch-package
 
 COPY src/wiki/ ./wiki
 
