@@ -1,0 +1,48 @@
+diff --git a/node_modules/markserv/lib/templates/directory.html b/node_modules/markserv/lib/templates/directory.html
+index 66a0189..ae0b948 100644
+--- a/node_modules/markserv/lib/templates/directory.html
++++ b/node_modules/markserv/lib/templates/directory.html
+@@ -9,6 +9,19 @@
+ 	<link rel="stylesheet" href="{markserv}templates/markserv.css">
+ 	<link rel="stylesheet" href="{markserv}templates/highlight-js-github-gist.css">
+ 	<link rel="stylesheet" href="{markserv}icons/icons.css">
++	<!-- start of zeuePatch-1 -->
++	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
++	<script src="https://unpkg.com/darkreader"></script>
++	<script type="text/javascript">
++	  $(document).ready(function() {
++	    DarkReader.enable({
++	      brightness: 125,
++	      contrast: 90,
++	      sepia: 0
++	    });
++	  });
++	</script>
++	<!-- end of zeuePatch-1 -->
+ </head>
+ <body class="dir">
+ <article class="markdown-body">
+diff --git a/node_modules/markserv/lib/templates/markdown.html b/node_modules/markserv/lib/templates/markdown.html
+index ae1933e..e86f33d 100644
+--- a/node_modules/markserv/lib/templates/markdown.html
++++ b/node_modules/markserv/lib/templates/markdown.html
+@@ -10,6 +10,19 @@
+ 	<link rel="stylesheet" href="{markserv}templates/highlight-js-github-gist.css">
+ 	<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$']]}});</script>
+ 	<script type="text/javascript" async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
++	<!-- start of zeuePatch-1 -->
++	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
++	<script src="https://unpkg.com/darkreader"></script>
++	<script type="text/javascript">
++	  $(document).ready(function() {
++	    DarkReader.enable({
++	      brightness: 125,
++	      contrast: 90,
++	      sepia: 0
++	    });
++	  });
++	</script>
++	<!-- end of zeuePatch-1 -->
+ </head>
+ <body>
+ <article class="markdown-body">

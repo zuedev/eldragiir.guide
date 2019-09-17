@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "markserv": "^1.17.2"
+    "markserv": "^1.17.2",
+    "patch-package": "^6.2.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "markserv wiki",
-	"prod": "markserv -p 5000 -a 0.0.0.0 wiki"
+    "prod": "markserv -p 5000 -a 0.0.0.0 wiki",
+    "postinstall": "patch-package"
   },
   "author": "",
   "license": "ISC"
