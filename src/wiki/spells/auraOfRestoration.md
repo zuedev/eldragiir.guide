@@ -1,6 +1,6 @@
 # Aura of Restoration
 
-_Call upon the powers of death to reap the undead_
+_Create a bubble of healing around yourself_
 
 ---
 

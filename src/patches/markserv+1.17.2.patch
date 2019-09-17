@@ -29,6 +29,30 @@ index 66a0189..34b1ea8 100644
  </article>
  </body>
  </html>
+diff --git a/node_modules/markserv/lib/templates/error.html b/node_modules/markserv/lib/templates/error.html
+index 37141f0..b1ee56a 100644
+--- a/node_modules/markserv/lib/templates/error.html
++++ b/node_modules/markserv/lib/templates/error.html
+@@ -9,6 +9,19 @@
+ 	<link rel="stylesheet" href="{markserv}templates/markserv.css">
+ 	<link rel="stylesheet" href="{markserv}templates/highlight-js-github-gist.css">
+ 	<link rel="stylesheet" href="{markserv}icons/icons.css">
++	<!-- start of zeuePatch-1 -->
++	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
++	<script src="https://unpkg.com/darkreader"></script>
++	<script type="text/javascript">
++	  $(document).ready(function() {
++	    DarkReader.enable({
++	      brightness: 125,
++	      contrast: 90,
++	      sepia: 0
++	    });
++	  });
++	</script>
++	<!-- end of zeuePatch-1 -->
+ </head>
+ <body class="dir">
+ <article class="markdown-body">
 diff --git a/node_modules/markserv/lib/templates/markdown.html b/node_modules/markserv/lib/templates/markdown.html
 index ae1933e..9de462f 100644
 --- a/node_modules/markserv/lib/templates/markdown.html

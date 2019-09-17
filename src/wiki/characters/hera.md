@@ -1,4 +1,4 @@
-# Herala, God of Life
+# Herala, Goddess of Life
 
 ## Draft Notes
 
@@ -10,3 +10,7 @@
 ## Reference Image
 
 ![](/.assets/img/herala.png)
+
+## Music Choices
+
+<iframe src="https://www.youtube.com/embed/ubZhS-0l4wk" frameborder="0"></iframe>
