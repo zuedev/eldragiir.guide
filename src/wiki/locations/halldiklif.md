@@ -10,7 +10,7 @@
 - Halldiklif is governed by an arcane sorcerer, a male human named Saki Rinto.
 ### Notable Places
 - The House of Pythippo: A large half-timbered theatre, said to be built upon the ground where a sidhe noble was betrayed and murdered.
-- The Shrine of Oton Miko: A cauldron lamp enshrining the flame of [Jallak Maa'al](/characters/jalaakmaaal.md), Goddess of Chaos, said to be sometimes visited by the goddess herself.
+- Shrine of Jallak Maa'al: A cauldron lamp enshrining the flame of [Jallak Maa'al](/characters/jalaakmaaal.md), Goddess of Chaos, said to be sometimes visited by the goddess herself.
 - Wone and Pervy's Quill: A scribery.
 - The Gray Flagon: A heroic inn, said to be built atop an ancient dungeon.
 - The Gypsy and Flask: A less reputable inn.
