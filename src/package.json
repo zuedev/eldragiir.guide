@@ -11,7 +11,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "markserv wiki",
-    "prod": "markserv -p 5000 -a 0.0.0.0 wiki",
+    "prod": "markserv --port 5000 --address 0.0.0.0 --silent --browser false wiki",
     "postinstall": "patch-package"
   },
   "author": "",
