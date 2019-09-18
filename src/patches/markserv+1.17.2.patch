@@ -9,7 +9,7 @@ index 66a0189..3dbb747 100644
 +	<!-- start of zeuePatch-1 -->
 +	<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 +	<script src="https://unpkg.com/darkreader"></script>
-+	<script src="https://gitlab.com/zeue-oss/recipes/raw/master/js/darkModeButton/darkModeButton.js"></script>
++	<script src="https://glcdn.githack.com/zeue-oss/recipes/raw/master/js/darkModeButton/darkModeButton.js"></script>
 +	<!-- end of zeuePatch-1 -->
  </head>
  <body class="dir">
@@ -32,7 +32,7 @@ index 37141f0..a23a7b0 100644
 +	<!-- start of zeuePatch-1 -->
 +	<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 +	<script src="https://unpkg.com/darkreader"></script>
-+	<script src="https://gitlab.com/zeue-oss/recipes/raw/master/js/darkModeButton/darkModeButton.js"></script>
++	<script src="https://glcdn.githack.com/zeue-oss/recipes/raw/master/js/darkModeButton/darkModeButton.js"></script>
 +	<!-- end of zeuePatch-1 -->
  </head>
  <body class="dir">
@@ -48,7 +48,7 @@ index ae1933e..63aaac3 100644
 +	<!-- start of zeuePatch-1 -->
 +	<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 +	<script src="https://unpkg.com/darkreader"></script>
-+	<script src="https://gitlab.com/zeue-oss/recipes/raw/master/js/darkModeButton/darkModeButton.js"></script>
++	<script src="https://glcdn.githack.com/zeue-oss/recipes/raw/master/js/darkModeButton/darkModeButton.js"></script>
 +	<!-- end of zeuePatch-1 -->
  </head>
  <body>
