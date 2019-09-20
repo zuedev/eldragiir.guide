@@ -8,3 +8,9 @@ We use all standard D&D 5e rules, though we have made these following changes fo
 - **Duel-wielding** without the Two-Weapon Fighter feat takes a bonus action to do per attack, otherwise it doesn't cost anything and can be done every attack.
 - Getting a **critical success on initiative rolls** allows the player one more action in their initial turn, whereas a **critical fail** allows them only one action instead. Bonus actions and reactions are not affected.
 - When healing someone who's unconscious, you must spend 1 point of healing on the character if they are unstable.
+
+## Racial Traits
+
+### Warforged
+
+- The **Warforged Resilience** rule is not active in our sessions.
