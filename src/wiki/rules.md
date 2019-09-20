@@ -13,4 +13,4 @@ We use all standard D&D 5e rules, though we have made these following changes fo
 
 ### Warforged
 
-- The **Warforged Resilience** rule is not active in our sessions.
+- The **Warforged Resilience** rule has changed: You need to "sleep," you do suffer exhaustion, and magic can put you to sleep.
