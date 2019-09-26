@@ -1,4 +1,4 @@
-# Herala, Goddess of Life
+# Hera, Goddess of Life
 
 ## Draft Notes
 
