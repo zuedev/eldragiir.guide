@@ -2,6 +2,16 @@
 
 We use all standard D&D 5e rules, though we have made these following changes for our own games:
 
+## Core Stats
+
+### Additional Ability Scores
+
+- **Insanity:** To calculate, take the sum of your Wisdom and Intelligence ability scores and half it.
+
+### New Trackers
+
+- **Honor:** This "stat" is completely ephemeral, and can only be changed through feats and roleplay actions.
+
 ## Combat
 
 - Instead of one movement and one attack per turn, **the player has two general actions** and can therefor attack twice by default. Some attacks and abilities, however, may hold a cost of two actions instead of one.
