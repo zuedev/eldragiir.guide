@@ -6,11 +6,23 @@ We use all standard D&D 5e rules, though we have made these following changes fo
 
 ### Additional Ability Scores
 
-- **Insanity:** To calculate, take the sum of your Wisdom and Intelligence ability scores and half it.
+- **Sanity:** To calculate, take the sum of your Wisdom and Intelligence ability scores and half it.
 
 ### New Trackers
 
 - **Honor:** This "stat" is completely ephemeral, and can only be changed through feats and roleplay actions.
+  - Your base "Honor" is set by your alignment:
+    - **Lawful Good:** 13
+    - **Balanced Good** 12
+    - **Chaotic Good** 11
+    - **Lawful Neutral:** 11
+    - **Balanced Neutral** 10
+    - **Chaotic Neutral** 9
+    - **Lawful Evil:** 9
+    - **Balanced Evil** 8
+    - **Chaotic Evil** 7
+
+#### Honor Tracker
 
 ## Combat
 
