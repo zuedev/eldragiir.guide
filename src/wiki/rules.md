@@ -22,8 +22,6 @@ We use all standard D&D 5e rules, though we have made these following changes fo
     - **Balanced Evil** 8
     - **Chaotic Evil** 7
 
-#### Honor Tracker
-
 ## Combat
 
 - Instead of one movement and one attack per turn, **the player has two general actions** and can therefor attack twice by default. Some attacks and abilities, however, may hold a cost of two actions instead of one.
