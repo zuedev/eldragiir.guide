@@ -10,14 +10,14 @@ We use all standard D&D 5e rules, though we have made these following changes fo
 - **Honor:** This "stat" is completely ephemeral, and can only be changed through feats and roleplay actions.
   - Your base "Honor" is set by your alignment:
     - **Lawful Good:** 13
-    - **Balanced Good:** 12
-    - **Chaotic Good:** 11
+    - **Balanced Good** 12
+    - **Chaotic Good** 11
     - **Lawful Neutral:** 11
-    - **Balanced Neutral:** 10
-    - **Chaotic Neutral:** 9
+    - **Balanced Neutral** 10
+    - **Chaotic Neutral** 9
     - **Lawful Evil:** 9
-    - **Balanced Evil:** 8
-    - **Chaotic Evil:** 7
+    - **Balanced Evil** 8
+    - **Chaotic Evil** 7
 
 ## Combat
 
