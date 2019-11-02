@@ -10,6 +10,4 @@ RUN npx patch-package
 
 COPY src/wiki/ ./wiki
 
-EXPOSE 5000
-
 CMD [ "npm", "run", "prod" ]
