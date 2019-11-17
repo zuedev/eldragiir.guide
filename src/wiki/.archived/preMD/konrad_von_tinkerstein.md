@@ -1,7 +1,0 @@
-# Konrad Von Tinkerstein
-
-Konrad Von Tinkerstein was a famous inventor hailing from the Smoking City. He spent most of his youth tinkering with mechanical devices until he developped a deep understanding of science. His unusual thinking allowed him to achieve breakthroughs in many fields and earned him a place in the Imperial College of Development. His fame came to a peak with the invention of Crystal based weaponry and Magically infused gunpowder. From there, his services were highly sought after and he amassed wealth worthy of an emperor.
-
-During his stay in the Empire, he fell in love with a fellow gnome by the name of Enora Lightsteps. They married shortly after meeting up and he dedicated many of his creations to her. She quickly become involved in his work and acted as his assistant during his experiments. It is during on of thses that his wife met her end when an unstable compound caused an explosion, reducing the lab in ruins. Konrad barely escaped with his life but his love wasn't so lucky. Her body could not be recovered and Konrad never had the chance to mourn her.
-
-After the incident, he started shutting himself from the world at large and became addicted to Magic Dust, a compound he used in many of his experiments which also double as powerful psychotrops. His immense wealth allowed him to maintain his excentricities but he quickly fell into disfavour when it became clear he was more interested in doing dust than working on his inventions.
