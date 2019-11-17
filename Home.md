@@ -1,1 +1,1 @@
-This is the home page! :3
+Welcome to the Unnamed Domain wiki! :D
