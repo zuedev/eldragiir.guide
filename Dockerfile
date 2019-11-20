@@ -3,6 +3,7 @@ RUN apt-get -y update && apt-get -y install libicu-dev cmake && rm -rf /var/lib/
 RUN gem install github-linguist
 RUN gem install gollum
 
+WORKDIR /app
 COPY . .
 
 CMD ["sh", "prod.sh"]
