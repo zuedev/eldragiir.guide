@@ -1,3 +1,3 @@
 #!/bin/sh
 
-gollum --port $PORT --emoji --mathjax --user-icons gravatar --no-edit
+gollum --port 6001 --emoji --mathjax --user-icons gravatar --no-edit
