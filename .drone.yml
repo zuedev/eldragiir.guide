@@ -5,7 +5,7 @@ name: default
 
 steps:
 - name: greeting
-  image: busybox:latest
+  image: ubuntu:latest
   environment:
     SSH_PRIVATE_KEY:
       from_secret: SECRET_SSH_PRIVATE_KEY
