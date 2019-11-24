@@ -6,5 +6,8 @@ name: default
 steps:
 - name: greeting
   image: busybox:latest
+  environment:
+    SECRET:
+      from_secret: name
   commands:
-  - echo "this is a test! uwu"
+  - echo "this is a test! $SECRET"
