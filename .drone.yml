@@ -5,7 +5,7 @@ name: default
 
 steps:
 - name: greeting
-  image: ubuntu:latest
+  image: ubuntu-sshd:latest
   environment:
     SSH_PRIVATE_KEY:
       from_secret: SECRET_SSH_PRIVATE_KEY
