@@ -10,5 +10,6 @@ steps:
     SSH_PRIVATE_KEY:
       from_secret: SECRET_SSH_PRIVATE_KEY
   commands:
+  - apk --update add openssh-client
   - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
   - ssh user1@server1 'df -H'
