@@ -1,1 +1,1 @@
-Welcome to the Unnamed Domain wiki! :D
+Welcome to the Unnamed Domain wiki! owo
