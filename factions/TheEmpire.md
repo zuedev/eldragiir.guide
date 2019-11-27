@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 # The Empire
 
 ## Introduction
