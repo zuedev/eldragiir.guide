@@ -67,4 +67,4 @@ _\*GM flavour is situation specific, but is usually extra flair added to action 
 
 ### Warforged
 
-- The **Warforged Resilience** rule has changed: You need to sleep, and you do suffer exhaustion, but magic still can't put you to sleep.
+- The **Constructed Resilience** rule has changed: You still need to eat, drink, and sleep, but don't need to breathe.
