@@ -1,0 +1,449 @@
+ 
+  
+
+<!DOCTYPE html> 
+<html>
+    <!--
+
+
+                            __________            .###.
+                            |         \   .###.  ##'  `#   
+                            |_________/  ##' `####'       .##
+                                \  \     ##----,_        ##
+                                 \  \  /        ###.    ,##
+                                  \  \/  O u O  | ##._.###
+                                   \_ \       ,-.| `###'
+                                  /  ) \    _/  |
+                                  |  |  \       |
+                                   \  \_ \      \_____
+                                    \/  ) \_/    \_   \
+                                    |  /\ (___/       |
+                                    \    \  \         |
+                                     \    \_/         |
+                                     |    _         /
+                                    /   _/ \    /  |
+                                  __|__/_\_/\__/\_/________________
+             ____________________|_________________________________|
+            <___               | |                        __/   
+                \____          | |                      _/
+                     \____     | |                    _/
+                          \____| |    ===========    /
+                               \_|     W O R L D    /
+                                 |     A N V I L    |
+                                 |    ===========    \
+                                _/      Light up      \_
+                             __/       the forge!       \__
+                            /            _______           \
+                            #           /       \           #
+                            ############         ############
+                                                    World Anvil Created by Dimitris 
+                                                    Udan Artwork by TJ Trewin
+                                                    Loved by All the Anvilites 
+    -->
+
+    <head>
+        <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"a43f2a62b0",applicationID:"489625731"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1158.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="google-site-verification" content="RKVt0ga6y7xeE1OUhjV9qtEtxUWc7vzbdtassPYBvcA" />
+        <meta name="google-site-verification" content="xCeWaWfrbOrx_H1s9HnA9sVaEUj374FBCQZA-uarmD4" />
+        <meta name="description" content="World Anvil Heroes is the one place where you can be your... imaginary friends">
+        <meta name="author" content="World Anvil">
+                    <meta property="og:type" content="article" />
+            <meta name="twitter:card" content="summary_large_image">
+
+            <meta property="og:title" content="Worldbuilding and RPG Campaign Management | World Anvil" />
+            <meta name="twitter:title" content="Worldbuilding and RPG Campaign Management | World Anvil">
+            <meta name="twitter:description" content="Worldbuilding and RPG Campaign Management tools for all Storytellers, Dungeon Masters and fiction Authors">
+
+            <meta property="og:url" content="http://www.worldanvil.com/login" />
+            <meta name="twitter:url" content="http://www.worldanvil.com/login">
+
+            <meta name="twitter:domain" content="worldanvil.com">
+            <meta name="twitter:creator" content="@worldanvil">
+            <meta name="twitter:creator" content="@worldanvil">
+            <meta name="twitter:site" content="@worldanvil">
+            <meta property="fb:app_id" content="221272941735999" />
+            <meta property="og:description" content="Worldbuilding and RPG Campaign Management tools for all Storytellers, Dungeon Masters and fiction Authorss" />
+            <meta property="og:image" content="/images/logo-550px.png" />
+            <meta name="twitter:image" content="/images/logo-550px.png">
+                <title>Login | Welcome to World Anvil  | World Anvil</title>
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=wAdAWOWNkW">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=wAdAWOWNkW">
+        <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png?v=wAdAWOWNkW">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=wAdAWOWNkW">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg?v=wAdAWOWNkW" color="#af0000">
+        <link rel="shortcut icon" href="/favicon.ico?v=wAdAWOWNkW">
+        <meta name="msapplication-TileColor" content="#af0000">
+        <meta name="theme-color" content="#ffffff">
+        <style>
+
+        </style>
+                    <link rel="stylesheet" href="/css/compiled/global.css?v=09648" />
+                <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin=""/>
+
+                    <link rel="stylesheet" href="/css/compiled/domain-global.css?v=30" />
+    
+          
+            <script>var show_advertising = false;</script>
+
+
+
+                                                    <script>var paneltheme = 'light'; </script>
+                    
+
+                <script type="text/javascript">
+            var _userway_config = {
+              account: '44An6Tb8YG'
+            };
+
+            var urls = {
+              templates: "/heroes/templates/",
+              notification_counter: "/notification/count",
+              dismissal: "/heroes/message/dismiss",
+              search: "/heroes/live/search/full",
+              search_article: "/heroes/live/search/articles",
+              diceLog: "/heroes/live/dicelog",
+              savescrapbook: "/hero/live/notes/save",
+              explorer_initial_content: "/world/explore/load/categories",
+              apollo_recent: "/apollo/recent",
+              apollo_favorites: "/apollo/favorites",
+              apollo_worlds: "/apollo/worlds",
+            };
+
+            
+
+            
+            // Loading Google Analytics only on Production Server
+                              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                  ga('create', 'UA-104647064-1', 'auto');
+                  ga('send', 'pageview');
+
+             
+
+        </script>
+
+        <script>var isGuildMember = 0;</script>
+            
+
+        <!-- Mainly scripts -->
+                    <script src="/js/compiled/global.js?v=09648"></script>
+        
+
+                                    <style>
+                                </style>
+
+        <!-- Facebook Pixel Code -->
+        <script>
+          !function(f,b,e,v,n,t,s)
+          {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+          fbq('init', '500227640591648');
+          fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+          src="https://www.facebook.com/tr?id=500227640591648&ev=PageView&noscript=1"
+        /></noscript>
+        <!-- End Facebook Pixel Code -->
+        
+    </head>
+
+    <body class=" domain-global subdomain-global page-undefined fixed-sidebar ">
+
+        <div id="fb-root"></div>
+
+
+        <div id="wrapper">
+            <nav class="navbar-default navbar-static-side" role="navigation">
+                	                    <div class="sidebar-collapse">
+                        <ul class="nav metismenu mb-5" id="side-menu">
+                                                            <li>
+                                <div class="p-3 text-white">
+                                    <h4 class="header-title">Welcome to <br>World Anvil</h3>
+                                    <div class="mb-3">
+                                        <p>
+                                            <strong>The Ultimate Worldbuilding Tools software, Campaign Manager</strong>
+                                        </p>
+                                        <p>
+                                            Created for Gamemasters, Authors, TTRPG Players and all Worldbuilding Creatives
+                                        </p>
+                                    </div>
+                                    <p>
+                                        <a class="btn btn-danger" href="/register/" class="">CREATE YOUR ACCOUNT</a>
+                                    </p>
+                                </div>
+                                </li>
+                                                    </ul>
+                    </div>
+                
+                </nav>
+            <div id="page-wrapper" class="gray-bg ">
+                                <div class="row border-bottom">
+                    <nav class="navbar  white-bg  navbar-static-top" role="navigation">
+                                                    
+    <div class="navbar-header">
+    <a style="margin-top: 19px" class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="/heroes/interface/sidebar"><i class="fa fa-bars"></i> </a>
+    				    <ul style="margin-top: 14px;" class="header-navigation nav justify-content-center mt d-none d-lg-flex">
+
+
+
+				        
+		    		        <li class="nav-item">
+		            <a id="" class="nav-link header-nav" href="/">HOME</a>
+		        </li>
+		        <li class="nav-item">
+		            <a id="" class="nav-secondary nav-link header-nav" href="/rpg-gamemaster">FOR GAMEMASTERS</a>
+		        </li>
+
+		        <li class="nav-item">
+		            <a id="" class="nav-secondary nav-link header-nav" href="/author">FOR WRITERS</a>
+		        </li>
+
+		        <li class="nav-item">
+		            <a id="" class="nav-secondary  nav-link header-nav" href="/artist">FOR CREATIVES</a>
+		        </li>
+
+		        <li class="nav-item">
+		            <a id="" class="nav-secondary  nav-link header-nav" href="/player">FOR  ROLEPLAYERS</a>
+		        </li>
+		        <li class="nav-item">
+		            <a id="" class="nav-link header-nav" href="/worldbuilders-guild-membership">PRICING</a>
+		        </li>
+		    	    </ul>
+
+
+</div>
+<ul class="nav navbar-top-links navbar-right">
+            <li>
+            <a class="text-primary" href="/login" class="">LOGIN</a>
+        </li>
+        <li>
+             <a class="text-danger" href="/register/" class="">CREATE YOUR ACCOUNT</a>
+        </li>
+    </ul>                    </nav>
+                </div>
+
+                                    <div class="row">
+                        <div class="wrapper-header">
+                            <div class="card-img-wrap" style="background-image: url('/heroes/images/header-mage.jpg');"></div>
+                                                                                        <h1 class="">Login</h1>
+                                <div id="breadcrumps">
+                                    <ol class="breadcrumb">
+                                        <style>
+	#breadcrumps { display: none; }
+	.wrapper-header h1 {
+	    bottom: 20px;
+	}
+</style>
+                                    </ol>
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="wrapper wrapper-content animated fadeInRight">
+
+                      
+                  
+
+                                		<h1 class="text-center mb-4">
+		Welcome back! Let's get creative!
+	</h1>
+    
+        <link rel="stylesheet" href="/css/common/login.css" />
+
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 col-md-4 offset-md-4 mb-5">
+            
+            <div class="ibox-content">
+
+                <form class="form-signin" action="/login_check" method="post">
+                                            <input type="hidden" name="_csrf_token" value="3CxO4__zicyIJolvHyTM2IZIpIhtaPdjrIXat-VcB-I" />
+                                        <input type="text" class="form-control" placeholder="Username or Email" value="" id="username" name="_username" required autofocus>
+                    <input type="password" class="form-control" placeholder="Password" id="password" name="_password" required>
+                    <input type="submit" class="btn btn-lg btn-primary btn-block" type="submit" id="_submit" name="_submit" value="Log in" />
+                    <label class="checkbox pull-left need-help mb-0">
+                        <input type="checkbox" id="remember_me" name="_remember_me" value="on"  >
+                        Remember me
+                    </label>
+                    <a href="/contact" class="pull-right need-help">Need help? </a><span class="clearfix"></span>
+                </form>
+            </div>
+            <div class="extras">
+                <a href="/register/" class="text-center new-account">Create an account </a> |
+                <a href="/resetting/request" class="text-center new-account">Forgot Password?</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    </div>
+    
+
+            
+            <div class="footer pt-5 pb-4">
+                <div class="container">
+	<div class="row">
+		<div class="col-6 col-md-4">
+			<div class="row">
+				<div class="col-6 col-md-6  mb-1">
+					<h4 class="header-title">Find your way!</h4>
+					<ul class="list-unstyled">
+						<li><a class="" href="/help/">NEED HELP?</a></li>
+						<li><a href="/pricing">PRICING</a> </li>
+						<li><a href="/about">ABOUT</a></li>
+						<li><a href="/faq">FAQ</a></li>
+						<li><a href="/educational-discounts">ACADEMIC DISCOUNTS</a></li>
+						<li><a href="/advertising">ADVERTISING</a></li>
+						<li><a href="/sponsoring">SPONSORING</a></li>
+					<h4 class="header-title mt-2">EVENTS</h4>
+					<ul class="list-unstyled">
+						<li><a href="/worldember">WORLDEMBER</a></li>
+						<li><a target="_blank" href="/summercamp">SUMMERCAMP</a></li>
+					</ul>
+					</ul>				
+				</div>
+				<div class="col-6 col-md-6">
+					<h4 class="header-title">WHO WE ARE</h4>
+					<ul class="list-unstyled">
+						<li><a href="/team">OUR TEAM</a></li>
+						<li><a href="http://blog.worldanvil.com">OUR NEWS</a></li>
+					</ul>
+					<h4 class="header-title">LEGAL</h4>
+					<ul class="list-unstyled">
+												<li><a href="/privacy">PRIVACY</a>  </li>
+						<li><a href="/terms-of-service">TERMS OF SERVICE</a>  </li>
+						<li><a href="/copyright">COPYRIGHT</a> </li>
+						<li><a href="/contact">CONTACT</a></li>
+						<li><a href="/etiquette">ETIQUETTE</a> </li>
+						<li><a href="/accessibility">ACCESSIBILITY</a> </li>
+					</ul>
+				</div>			
+			</div>
+		</div>
+					<div class="col-6 col-md-3 mb-1">
+				<h4 class="header-title">Get the news</h4>
+						           <a href="/register/" class="mb-2 btn btn-block btn-primary">CREATE YOUR ACCOUNT</a>
+								<ul class="list-unstyled">
+					<li class="social-media-links ">
+		                <a href="https://www.twitter.com/worldanvil" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+		                <a href="https://www.youtube.com/channel/UCf5MDxxTuT1OpwOxVfG-ofg" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+		                <a href="https://www.twitch.tv/worldanvil" target="_blank"><i class="fab fa-twitch fa-2x"></i></a> 
+		                <a href="https://www.facebook.com/worldanvil" target="_blank"><i class="fab fa-facebook fa-2x"></i></a> 
+		                <a href="http://worldanvil.tumblr.com" target="_blank"><i class="fab fa-tumblr fa-2x"></i></a>
+		                <a href="https://www.reddit.com/r/worldanvil" target="_blank"><i class="fab fa-reddit fa-2x"></i></a>
+					</li>
+				</ul>
+				<div class="row">
+					<div class="col-12">
+						<h4 class="header-title">Listen to our Podcast</h4>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 col-md-6">
+						<a href="https://www.podbean.com/podcast-detail/2fpw8-a1906/World-Anvil-Worldbuilding-Podcast"><img src="/images/podbean.png" class="img-fluid img-responsive" alt=""></a>		
+					</div>
+					<div class="col-6 col-md-6">
+						<a href="https://open.spotify.com/show/3oTKN4P1Zji795igdyZp7G?si=QZv2DVB7StmwCE5ZkTHyxw"><img src="/images/spotify.png" class="img-fluid img-responsive" alt=""></a>
+					</div>
+				</div>
+
+			</div>
+			<div class="col-6 col-md-2  mb-1 ">
+				<h4 class="header-title">Our Allies</h4>
+				<div class="row">
+					<div class="col-6 col-md-6 mb-2 m-b-20">
+				        <a target="_blank" href="https://www.youtube.com/channel/UC1F4eMw3W_rHBfxf9_m1hbw?utm_campaign=worldanvil-footer&utm_source=worldanvil&utm_medium=referral">
+				            <img class="img-fluid img-responsive" src="/images/ally-greatgm.png" alt="">
+				        </a>
+					</div>
+					<div class="col-6 col-md-6 mb-2 m-b-20">
+		        		<a target="_blank" href="https://www.dungeonfog.com/world-anvil?utm_campaign=worldanvil-footer&utm_source=worldanvil&utm_medium=referral">
+		            		<img class="img-fluid img-responsive" src="/images/ally-dngFOG.png" alt="Dungeon Fog">
+		            	</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-6 col-md-2 col-xl-2 mb-1">
+				<h4 class="header-title">Our Award</h4>
+				<a href="http://blog.worldanvil.com/2019/08/03/world-anvil-golden-ennie-for-best-digital-aid-accessory/" target="_blank"><img src="/images/gold-ennie-2019.png" title="We won the Gold Ennie 2019 for Best Digital Aid" alt="Gold Ennie 2019 for Best Digital Aid" class="img-fluid img-responsive tooltipster"></a>
+			</div>
+			</div>
+</div>
+
+
+	<div class="row">
+		<div class="col-md-12 mt-3 m-t-20">
+			<p class="text-center mt-2 mb-1">
+				<small>
+				The amazing imagery displayed in World Anvil is graciously vested by
+				His Titanship <a style="font-weight:bold; font-size:1em; padding-right:0;" href="https://www.worldanvil.com/author/thechosenone">Christopher Dravus</a> of Ironrise Games, <br>
+				 Our Revered Deity <a style="font-weight:bold; font-size:1em; padding-right:0;" href="https://www.worldanvil.com/author/BasicDragon">Basic Dragon / Rin</a> &amp; 
+				<a style="font-weight:bold; font-size:1em; padding-right:0;" href="https://www.caeora.com">His Majesty Caeora</a> 
+				</small>
+			</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12 text-center">
+			<small>
+	        	<a href="/">World Anvil</a> v.0.9.6-Hero Buit 32648 &copy; 2017 - 2020 [] | <i class="far fa-clock"></i> Anvil Time: <strong>21:25</strong>, Jan 14 2020 14
+	    	</small>
+		</div>
+	</div>
+                	                
+            </div>
+
+        </div>
+
+                
+        
+
+                
+        
+    
+        
+        
+        
+
+
+                
+        
+
+        
+            <!-- SCEditor (Default Editor Style) -->
+            <link rel="stylesheet" type="text/css" href="/modules/wysiwyg/css/editor.css?v=09648">
+
+            <!-- CSS Overrides -->
+                        <!-- SCEditor -->
+            <script src="/modules/wysiwyg/js/editor-base.js?v=09648"></script>
+            <script src="/modules/wysiwyg/js/wa-bb-parser.js?v=09648"></script> 
+            <!-- Custom BBCode Config -->
+            <script src="/modules/wysiwyg/js/wacode.js?v=09648"></script>
+
+            <!-- Suggestions -->
+            <script src="/modules/wysiwyg/js/wa-tribute.js?v=09648"></script> <!-- This is the library used to lookup and parse mentions -->
+            <script src="/modules/wysiwyg/js/wa-suggest-plugin.js?v=09648"></script> <!-- This is the custom plugin for SC Editor -->
+            <script src="/modules/wysiwyg/js/wa-images-plugin.js?v=09648"></script>
+            <script src="/modules/wysiwyg/js/wa-plaintext-plugin.js?v=09648"></script>
+            <!-- Editor Initialization -->
+            
+        
+
+                          
+
+            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a43f2a62b0","applicationID":"489625731","transactionName":"ZVFQbRRZWBIHB0ZbVlwbc1oSUVkPSQJdQWZHR1dLOUtTAhMWW0ZAbVhdXg9W","queueTime":0,"applicationTime":22,"atts":"SRZTG1xDSxw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+
+</html>
