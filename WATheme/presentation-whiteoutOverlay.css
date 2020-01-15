@@ -93,3 +93,19 @@
 .user-css .subheading {
   text-align: justify;
 }
+
+/* backtoworld link */
+.user-css .backtoworld a {
+  background: var(--backgroundShade2);
+}
+
+/* article aside */
+.user-css .panel {
+  background: var(--backgroundShade2);
+  outline: none;
+}
+
+/* hide extended stuff */
+.user-css-extended {
+  display: none;
+}
