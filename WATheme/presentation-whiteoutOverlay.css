@@ -145,3 +145,10 @@
   background: var(--backgroundShade2);
   outline: none;
 }
+
+/* article panel edits */
+.user-css .article-panel {
+  background: var(--backgroundShade2);
+  outline: none;
+  border: none;
+}
