@@ -113,4 +113,10 @@
 /* center article headers */
 .user-css .article-title {
   text-align: center;
+  font-weight: bold;
+}
+
+/* justify left content */
+.user-css .article-content-left {
+  text-align: justify;
 }
