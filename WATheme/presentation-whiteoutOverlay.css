@@ -74,7 +74,8 @@
 
 /* hide world content except world-menu */
 .user-css .table-of-contents,
-.user-css #world-maps {
+.user-css #world-maps,
+.tooltipster-base {
   display: none;
 }
 
@@ -122,4 +123,9 @@
 /* justify left content */
 .user-css .article-content-left {
   text-align: justify;
+}
+
+/* hide whitelabel stuff */
+.user-css-whitelabel {
+  display: none;
 }
