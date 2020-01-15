@@ -71,3 +71,13 @@
   background: var(--backgroundShade2) !important;
   border-color: var(--backgroundShade2) !important;
 }
+
+/* hide world content */
+.user-css .world-content {
+  display: none;
+}
+
+/* homepage subheading */
+.user-css .subheading {
+  text-align: justify;
+}
