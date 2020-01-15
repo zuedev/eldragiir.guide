@@ -2,6 +2,8 @@
 :root {
   --backgroundPage: #000;
   --backgroundContent: #111;
+  --backgroundShade1: #222;
+  --backgroundShade2: #333;
   --fontFamilyOne: Roboto Mono;
   --fontFamilyTwo: monospace;
   --fontColorBase: #fff;
@@ -27,19 +29,27 @@
 }
 
 /* links */
-
 .user-css a {
-  color: var(--fontColorLinksIdle);
+  color: var(--fontColorLinksIdle) !important;
 }
 
-/* fix tables */
+/* darktheme fixes */
+.user-css .table-of-contents * {
+  background: var(--backgroundShade2);
+  outline: none;
+}
+
+.user-css .panel-default {
+    border-color: var(--backgroundShade2);
+}
+
 .user-css .table th {
-  background: #333;
+  background: var(--backgroundShade2);
   color: var(--fontColorBase);
 }
 
 .user-css .table td {
-  background: #222;
+  background: var(--backgroundShade1);
   color: var(--fontColorBase);
 }
 
@@ -55,4 +65,9 @@
   left: unset;
   text-align: center;
   margin-top: 2rem;
+  padding-left: 4rem;
+}
+.user-css input {
+  background: var(--backgroundShade2) !important;
+  border-color: var(--backgroundShade2) !important;
 }
