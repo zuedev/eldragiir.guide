@@ -110,10 +110,12 @@
   display: none;
 }
 
-/* center article headers */
+/* better article headers */
 .user-css .article-title {
   text-align: left;
   margin-top: 2rem;
+}
+.user-css .article-title h1 {
   font-weight: bold;
 }
 
