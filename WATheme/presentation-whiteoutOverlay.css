@@ -109,3 +109,8 @@
 .user-css-extended {
   display: none;
 }
+
+/* center article headers */
+.user-css .article-title {
+  text-align: center;
+}
