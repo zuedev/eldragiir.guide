@@ -72,9 +72,18 @@
   border-color: var(--backgroundShade2) !important;
 }
 
-/* hide world content */
-.user-css .world-content {
+/* hide world content except world-menu */
+.user-css .table-of-contents,
+.user-css #world-maps {
   display: none;
+}
+
+/* make world menu nicer */
+.user-css .world-content .col-md-8 .row .col-md-6 {
+  margin-left: 50%;
+}
+.user-css #world-menu .world-toc-header {
+  text-align: center;
 }
 
 /* homepage subheading */
