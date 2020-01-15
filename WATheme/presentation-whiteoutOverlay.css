@@ -85,6 +85,9 @@
 .user-css #world-menu .world-toc-header {
   text-align: center;
 }
+.user-css #world-category-content {
+  display: none;
+}
 
 /* homepage subheading */
 .user-css .subheading {
