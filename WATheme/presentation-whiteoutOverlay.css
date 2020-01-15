@@ -6,7 +6,8 @@
   --backgroundShade2: #333;
   --fontFamilyOne: Roboto Mono;
   --fontFamilyTwo: monospace;
-  --fontColorBase: #fff;
+  --fontColorBase: rgb(255,255,255,0.9);
+  --fontColorHeadings: rgb(255,255,255,1);
   --fontColorLinksIdle: #f00;
 }
 /* VARIABLE CONSTRUCTOR END*/
@@ -26,6 +27,15 @@
 .user-css *:not(.fa):not(.fas) {
   font-family: var(--fontFamilyOne), var(--fontFamilyTwo);
   color: var(--fontColorBase);
+}
+
+.user-css h1,
+.user-css h2,
+.user-css h3,
+.user-css h4,
+.user-css h5,
+.user-css h6 {
+  color: var(--fontColorHeadings);
 }
 
 /* links */
