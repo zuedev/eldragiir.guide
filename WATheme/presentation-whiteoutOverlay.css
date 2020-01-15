@@ -5,10 +5,11 @@
   --fontFamilyOne: Roboto Mono;
   --fontFamilyTwo: monospace;
   --fontColorBase: #fff;
+  --fontColorLinksIdle: #f00;
 }
 /* VARIABLE CONSTRUCTOR END*/
 
-/* DARKMODE SECTION START */
+/* setup backgrounds! */
 .user-css.page, .user-css-extended .page {
   background: var(--backgroundContent);
 }
@@ -17,6 +18,21 @@
   background: var(--backgroundPage);
 }
 
+/* setup font */
+@import url(https://fonts.googleapis.com/css?family=var(--fontFamilyOne));
+
+.user-css *:not(.fa):not(.fas) {
+  font-family: var(--fontFamilyOne), var(--fontFamilyTwo);
+  color: var(--fontColorBase);
+}
+
+/* links */
+
+.user-css a {
+  color: var(--fontColorLinksIdle);
+}
+
+/* fix tables */
 .user-css .table th {
   background: #333;
   color: var(--fontColorBase);
@@ -26,16 +42,6 @@
   background: #222;
   color: var(--fontColorBase);
 }
-/* DARKMODE SECTION END*/
-
-/* FONT SECTION START */
-@import url(https://fonts.googleapis.com/css?family=var(--fontFamilyOne));
-
-.user-css *:not(.fa):not(.fas) {
-  font-family: var(--fontFamilyOne), var(--fontFamilyTwo);
-  color: var(--fontColorBase);
-}
-/* FONT SECTION END */
 
 /* hide cover image */
 .user-css #cover {
