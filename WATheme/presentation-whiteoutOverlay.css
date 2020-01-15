@@ -116,9 +116,20 @@
   outline: none;
 }
 
-/* hide extended stuff */
+/* edit extended stuff */
 .user-css-extended {
-  display: none;
+  margin-top: 5rem;
+}
+.user-css-extended *:not(.nav-tabs) {
+  background: var(--backgroundColor) !important;
+  outline: none;
+  border-color: var(--backgroundShade2);
+}
+.user-css-extended .nav-tabs li {
+  background: var(--backgroundShade1) !important; 
+}
+.user-css-extended .nav-tabs li.active a {
+  background: var(--backgroundShade2) !important; 
 }
 
 /* better article headers */
