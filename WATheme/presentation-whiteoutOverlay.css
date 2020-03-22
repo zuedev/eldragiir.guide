@@ -24,7 +24,7 @@
 /* setup font */
 @import url(https://fonts.googleapis.com/css?family=var(--fontFamilyOne));
 
-.user-css *:not(.fa):not(.fas) {
+.user-css *:not(.fa):not(.fas):not(.fab) {
   font-family: var(--fontFamilyOne), var(--fontFamilyTwo);
   color: var(--fontColorBase);
 }
