@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "markserv src/"
+  },
+  "dependencies": {
+    "markserv": "^1.17.4"
+  }
+}
