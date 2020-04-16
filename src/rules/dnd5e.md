@@ -1,4 +1,4 @@
-[[_TOC_]]
+{html: ../.assets/template.html}
 
 # Rules
 
