@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "markserv src/"
+    "dev": "markserv src/",
+    "prod": "markserv --port $PORT --silent --address 0.0.0.0 src/"
   },
   "dependencies": {
     "markserv": "^1.17.4"
