@@ -4,43 +4,28 @@ title: D&D 5e
 
 # Rules
 
-We use all standard D&D 5e rules, though we have made these following changes for our own games:
+We use all standard D&D 5e rules, though we have made some changes for our own games.
 
 ## Core Mechanics
 
-### Additional Ability Scores
+### New Ability Score
 
-- **Sanity:** To calculate, take the sum of your Wisdom and Intelligence ability scores and half it, rounding down if needed.
-- **Honor:** This ability score can only be changed through feats and roleplay actions.
-  - Your base "Honor" is set by your initial alignment:
-    - **Lawful Good:** 13
-    - **Balanced Good:** 12
-    - **Chaotic Good or Lawful Neutral:** 11
-    - **Balanced Neutral:** 10
-    - **Chaotic Neutral or Lawful Evil:** 9
-    - **Balanced Evil:** 8
-    - **Chaotic Evil:** 7
-
-### Additional Statistic Trackers
-
-- **Corruption:** This statistic keeps track of how corrupted your character is and how easily tempted they can be by ruinous powers. It can only be changed through roleplay actions.
-  - **When doing a "corruption check":** Roll a D20, if the result is equal to or lower than your current "corruption" score then you fail, you succeed if the result is higher. Critical fails/successes don't exist for this check.
+- **Soul:** This is a measure of your character's ability to uphold their core characteristics, such as their alignment, personality traits, ideals, bonds, and flaws.
+  - **Convertion from corruption:** Take your current corruption and minus it from 18, that is your new Soul ability score.
 
 ### Action Economy
 
 Instead of one movement and one action per turn, the player has two general actions that can be "spent" to do the following:
 
-|        Action         |   Cost    |                                         Note                                         |
-| :-------------------: | :-------: | :----------------------------------------------------------------------------------: |
-|         Move          | 1 Action  |                                                                                      |
-|         Dash          | 2 Actions |         2.5x base movement speed in one direction, chance to fail (GM roll)          |
-|        Attack         | 1 Action  |                                                                                      |
-|     Heavy Attack      | 2 Actions | Attack w/ advantage, roll damage twice if hit, crit-fail if miss, GM flavour\* added |
-|     Cast a Spell      | 1 Action  |                                                                                      |
-| Cast a Focussed Spell | 2 Actions |    Roll with advantage, 1.25-2.5x potency on success (GM roll), crit-fail on fail    |
-|    Begin Overwatch    | 1 Action  |                              See "Overwatch" rule below                              |
-
-_\*GM flavour is situation specific, but is usually extra flair added to action result, dictated by a secret roll_
+|        Action         |   Cost    |                                 Note                                 |
+| :-------------------: | :-------: | :------------------------------------------------------------------: |
+|         Move          | 1 Action  |                                                                      |
+|         Dash          | 2 Actions | 3x current movement speed in one direction, chance to fail (GM roll) |
+|        Attack         | 1 Action  |                                                                      |
+|     Heavy Attack      | 2 Actions |      Attack w/ advantage, 250% damage if hit, crit-fail if miss      |
+|     Cast a Spell      | 1 Action  |                                                                      |
+| Cast a Focussed Spell | 2 Actions |   Roll with advantage, 250% potency on success, crit-fail on fail    |
+|    Begin Overwatch    | 1 Action  |                      See "Overwatch" rule below                      |
 
 #### Extra Conditions
 
@@ -55,8 +40,6 @@ _\*GM flavour is situation specific, but is usually extra flair added to action 
 - A target already within line of sight attempts to do something the overwatching character predefines (e.g. trying to escape, reaching for a sword, etc)
 - An entrance/exit within line of sight of the overwatching character is opened/closed (e.g. door opens)
 
-**NOTE:** The GM may require a roll for this action to succeed depending on the circumstance or may fail it if the situation requires it.
-
 ### Health & Death
 
 - When healing someone who's unconscious, you must spend 1 point of healing on the character if they are unstable before applying the rest of the healing.
@@ -69,4 +52,4 @@ _\*GM flavour is situation specific, but is usually extra flair added to action 
 
 ### Warforged
 
-- The **Constructed Resilience** rule has changed: You still need to eat, drink, and sleep, but don't need to breathe.
+- The **Constructed Resilience** rule has changed: You still need to sleep, however the exhaustion you receive from not sleeping is more severe.
