@@ -12,9 +12,7 @@ body::-webkit-scrollbar {
 }
 
 main {
-  width: 80%;
-  margin: auto;
-  margin-top: 2rem;
+  margin: 2rem;
 }
 
 img {
