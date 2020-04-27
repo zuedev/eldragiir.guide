@@ -1,0 +1,29 @@
+* {
+  font-family: monospace;
+}
+
+body {
+  margin: 0;
+  -ms-overflow-style: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+main {
+  width: 80%;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+img {
+  transition: all 0.2s ease-in-out;
+  max-height: 250px;
+  max-width: 250px;
+}
+
+img.bigimg {
+  max-height: 100%;
+  max-width: 100%;
+}

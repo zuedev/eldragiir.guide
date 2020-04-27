@@ -46,4 +46,4 @@ This is the last thing Comfort remembers clearly about that day, but to his igno
 
 ## Media
 
-![](/assets/images/comfort-sara.jpg)
+![](/assets/img/comfort-sara.jpg)
