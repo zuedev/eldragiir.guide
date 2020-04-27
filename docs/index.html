@@ -2,24 +2,34 @@
 layout: default
 ---
 
+<h1>Eldragiir</h1>
+
+<p>
+  Birthed from embers and torn asunder by dragons, the world of Eldragiir is an
+  ever-changing realm of mad-gods and foolish mortals. With everyone vying for
+  control over precious artefacts left behind by a once-great ancient
+  civilisation known only as The Precursors, much darker forces fester and
+  scheme below the surface.
+</p>
+
 <h2>Characters</h2>
-{% for character in site.characters %}
 <ul>
+  {% for character in site.characters %}
   <li>
     <a href="{{ character.url }}">
       {{ character.title }}
     </a>
   </li>
+  {% endfor %}
 </ul>
-{% endfor %}
 
 <h2>Rulesets</h2>
-{% for ruleset in site.rulesets %}
 <ul>
+  {% for ruleset in site.rulesets %}
   <li>
     <a href="{{ ruleset.url }}">
       {{ ruleset.title }}
     </a>
   </li>
+  {% endfor %}
 </ul>
-{% endfor %}
