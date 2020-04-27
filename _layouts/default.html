@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }} | Eldragiir</title>
+    <link
+      rel="stylesheet"
+      href="//necolas.github.io/normalize.css/8.0.1/normalize.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css"
+    />
+    <style>
+      * {
+        font-family: monospace;
+      }
+
+      body {
+        margin: 0;
+        -ms-overflow-style: none;
+      }
+
+      body::-webkit-scrollbar {
+        display: none;
+      }
+
+      main {
+        width: 80%;
+        margin: auto;
+        margin-top: 2rem;
+      }
+
+      img {
+        transition: all 0.2s ease-in-out;
+        max-height: 250px;
+        max-width: 250px;
+      }
+
+      img.bigimg {
+        max-height: 100%;
+        max-width: 100%;
+      }
+    </style>
+    <script src="//unpkg.com/darkreader@4.9.2/darkreader.js"></script>
+    <script src="assets/scripts/defaultPre.js"></script>
+  </head>
+  <body>
+    <main>
+      <div class="toc"></div>
+      <div class="content">{{ content }}</div>
+    </main>
+  </body>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+  <script src="assets/scripts/defaultPost.js"></script>
+</html>

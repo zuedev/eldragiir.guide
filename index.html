@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h2>Characters</h2>
+{% for character in site.characters %}
+<ul>
+  <li>
+    <a href="{{ character.url }}">
+      {{ character.title }}
+    </a>
+  </li>
+</ul>
+{% endfor %}
+
+<h2>Rulesets</h2>
+{% for ruleset in site.rulesets %}
+<ul>
+  <li>
+    <a href="{{ ruleset.url }}">
+      {{ ruleset.title }}
+    </a>
+  </li>
+</ul>
+{% endfor %}

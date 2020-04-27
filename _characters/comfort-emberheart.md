@@ -1,4 +1,7 @@
-{html: ../.assets/template.html}
+---
+title: Comfort Emberheart
+rating: 100
+---
 
 # Comfort Emberheart (a.k.a. The Prince of Fire)
 
@@ -43,4 +46,4 @@ This is the last thing Comfort remembers clearly about that day, but to his igno
 
 ## Media
 
-<img class="smallimg" src="/.assets/comfort-sara.jpg" />
+![](/assets/images/comfort-sara.jpg)

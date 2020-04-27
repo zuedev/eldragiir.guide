@@ -1,4 +1,6 @@
-{html: ../.assets/template.html}
+---
+title: D&D 5e
+---
 
 # Rules
 
