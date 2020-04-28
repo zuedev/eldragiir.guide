@@ -53,7 +53,6 @@
         ></iframe>
       </div>
     </div>
-    <script src="/assets/js/youtubeBackground.js"></script>
     {% endif %}
     <main>
       {% if page.image %}
@@ -66,8 +65,21 @@
         <div class="toc"></div>
         {{ content }}
       </div>
+      {% if page.youtubeBackground %}
+      <p class="videoCredit">
+        <a
+          href="https://youtu.be/{{ page.youtubeBackground
+      }}"
+          target="_blank"
+          ><b>Background Source</b></a
+        >
+      </p>
+      {% endif %}
     </main>
   </body>
   <script src="//cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
   <script src="/assets/js/defaultPost.js"></script>
+  {% if page.youtubeBackground %}
+  <script src="/assets/js/youtubeBackground.js"></script>
+  {% endif %}
 </html>

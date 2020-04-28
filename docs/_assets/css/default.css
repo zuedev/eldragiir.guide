@@ -38,7 +38,7 @@ body::-webkit-scrollbar {
 }
 
 main {
-  margin: 2rem;
+  padding: 2rem;
 }
 
 img {
@@ -101,4 +101,7 @@ tr:nth-child(even) {
     width: 300%;
     left: -100%;
   }
+}
+.videoCredit {
+  text-align: right;
 }
