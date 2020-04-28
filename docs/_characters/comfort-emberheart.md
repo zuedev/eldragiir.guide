@@ -1,6 +1,7 @@
 ---
 title: Comfort Emberheart
 rating: 100
+image: "/assets/img/comfort-sara.jpg"
 ---
 
 # Comfort Emberheart (a.k.a. The Prince of Fire)
