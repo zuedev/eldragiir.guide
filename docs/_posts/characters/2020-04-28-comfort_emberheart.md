@@ -15,12 +15,13 @@ categories:
   - characters
 tags:
   - eca_practitioners
-date: 2020-04-28T19:38:06.225Z
+  - dustborn
+  - cind
+  - chaotic_neutral
+  - male
+  - the_fire_caste_of_tiamon
+date: 2020-04-28T19:49:18.295Z
 ---
-
-## Prose
-
-{{ page.description }}
 
 ## Meta
 

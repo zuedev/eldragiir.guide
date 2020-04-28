@@ -45,6 +45,7 @@ img {
   transition: all 0.2s ease-in-out;
   max-height: 250px;
   max-width: 250px;
+  cursor: pointer;
 }
 
 img.bigimg {
@@ -102,7 +103,8 @@ tr:nth-child(even) {
     left: -100%;
   }
 }
-.videoCredit {
+
+.bottomRightMeta {
   text-align: right;
 }
 

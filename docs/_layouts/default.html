@@ -79,7 +79,7 @@
         {% endif %} {{ content }}
       </div>
       {% if page.youtubeBackground %}
-      <p class="videoCredit">
+      <p class="bottomRightMeta">
         <a
           href="https://youtu.be/{{ page.youtubeBackground
       }}"
@@ -88,7 +88,7 @@
         >
       </p>
       {% endif %} {% if page.date %}
-      <p class="videoCredit"><b>Last Updated:</b> {{ page.date }}</p>
+      <p class="bottomRightMeta"><b>Last Updated:</b> {{ page.date }}</p>
       {% endif %}
     </main>
   </body>
