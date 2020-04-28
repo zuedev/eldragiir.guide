@@ -3,21 +3,20 @@ include:
 
 defaults:
   - scope:
-      path: "" # all
+      path: ""
     values:
       layout: "default"
+  - scope:
+      path: "_posts"
+    values:
+      date: "2020-01-02"
+      permalink: /:categories/:title
   - scope:
       path: "_assets/images"
     values:
       image: true
-
-permalink: /:title
+      permalink: /:title:output_ext
 
 collections:
   assets:
-    output: true
-  characters:
-    output: true
-    sort_by: rating
-  rulesets:
     output: true

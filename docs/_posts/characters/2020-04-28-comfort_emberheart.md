@@ -1,14 +1,22 @@
 ---
 title: Comfort Emberheart
-rating: 100
-image: "/assets/img/comfort-thumbnail.jpg"
-imageAlt: "Comfort on the streets on Nostro during it's revolution in 999POC"
-description: Comfort Emberheart is a Dustborn Cind and the current leader of The Fire Caste of Tiamon, a militant organisation seeking to retake the once-great city of Tiamon. He wields three scimitars and a glaive, along with utilising elemental powers (primarily fire) to augment his fighting style.
-youtubeBackground: "GCiCghiu1Z0"
-customCss: "/assets/css/comfort.css"
+h1: Comfort Emberheart (a.k.a. The Prince of Fire)
+image: /assets/img/comfort-thumbnail.jpg
+imageAlt: Comfort on the streets on Nostro during it's revolution in 999POC
+prose: >-
+  Comfort Emberheart is a Dustborn Cind and the current leader of The Fire Caste
+  of Tiamon, a militant organisation seeking to retake the once-great city of
+  Tiamon. He wields three scimitars and a glaive, along with utilising elemental
+  powers (primarily fire) to augment his fighting style.
+youtubeBackground: GCiCghiu1Z0
+customCss: /assets/css/comfort.css
+published: true
+categories:
+  - characters
+tags:
+  - eca_practitioners
+date: 2020-04-28T19:38:06.225Z
 ---
-
-# Comfort Emberheart (a.k.a. The Prince of Fire)
 
 ## Prose
 
