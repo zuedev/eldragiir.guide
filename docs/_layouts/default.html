@@ -5,7 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }} | Eldragiir</title>
     <link rel="stylesheet" href="/assets/css/default.css" />
-    {% if page.title %}
+    {% if page.customCss %}
+    <link rel="stylesheet" href="{{ page.customCss }}" />
+    {% endif %} {% if page.customFavicon %}
+    <link href="{{ page.customFavicon }}" rel="icon" type="image/x-icon" />
+    {% else %}
+    <link
+      href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII="
+      rel="icon"
+      type="image/x-icon"
+    />
+    {% endif %} {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     {% endif %} {% if page.url %}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
@@ -25,8 +35,26 @@
     {% else %}
     <meta property="og:article:author" content="zuedev" />
     {% endif %}
+    <script
+      src="https://code.jquery.com/jquery-3.5.0.min.js"
+      integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
+    {% if page.youtubeBackground %}
+    <!-- TODO: this needs to be a lot better, currently unstable -->
+    <div class="video-background">
+      <div class="video-foreground">
+        <iframe
+          src="https://www.youtube.com/embed/{{ page.youtubeBackground }}?controls=0&autoplay=1&loop=1&playlist={{ page.youtubeBackground }}&mute=1"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+    <script src="/assets/js/youtubeBackground.js"></script>
+    {% endif %}
     <main>
       {% if page.image %}
       <!-- TODO: implement proper thumbnail/primary image styling -->
@@ -34,8 +62,10 @@
         <img src="{{ page.image }}" alt="{{ page.imageAlt }}" />
       </div> -->
       {% endif %}
-      <div class="toc"></div>
-      <div class="content">{{ content }}</div>
+      <div class="content">
+        <div class="toc"></div>
+        {{ content }}
+      </div>
     </main>
   </body>
   <script src="//cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
