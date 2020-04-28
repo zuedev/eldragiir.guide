@@ -9,7 +9,8 @@ description: Birthed from embers and torn asunder by dragons, the world of Eldra
   {{ page.description }}
 </p>
 
-{% for category in site.categories %}
+{% assign my_categories = (site.categories | sort ) %} {% for category in
+my_categories %}
 <h2 class="capitalize">{{ category[0] }}</h2>
 <ul>
   {% for post in category[1] %}
