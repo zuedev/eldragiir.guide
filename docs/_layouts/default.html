@@ -12,6 +12,8 @@
     {% endif %} {% if page.image %}
     <meta property="og:image" content="{{ page.image }}" />
     <meta property="og:image:alt" content="{{ page.imageAlt }}" />
+    <meta property="twitter:image" content="{{ page.image }}" />
+    <meta property="twitter:card" content="summary_large_image" />
     {% endif %} {% if page.description %}
     <meta property="og:description" content="{{ page.description }}" />
     {% endif %}
