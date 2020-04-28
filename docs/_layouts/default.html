@@ -5,7 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }} | Eldragiir</title>
     <link rel="stylesheet" href="/assets/css/default.css" />
-    {% if page.image %}
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+    {% endif %} {% if page.url %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    {% endif %} {% if page.image %}
     <meta property="og:image" content="{{ page.image }}" />
     {% endif %}
   </head>
