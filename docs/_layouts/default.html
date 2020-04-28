@@ -19,6 +19,12 @@
   </head>
   <body>
     <main>
+      {% if page.image %}
+      <!-- TODO: implement proper thumbnail/primary image styling -->
+      <!-- <div class="pageImage">
+        <img src="{{ page.image }}" alt="{{ page.imageAlt }}" />
+      </div> -->
+      {% endif %}
       <div class="toc"></div>
       <div class="content">{{ content }}</div>
     </main>
