@@ -60,6 +60,8 @@ Seeing this endless cycle of hatred towards his and other species caused somethi
 
 During the siege, Comfort was able to command a force of veterans that he augmented with fireskin to cleave directly through the legion's defensive line\*, a tactic previously thought impossible, which was enough of a blow to force the legion to retreat. Shortly after this battle, Bastion (the Empire-controlled capital of Gil'brun), declared that Nostro was to be truly independent from The Empire, allowing those of all origins to make a living by legitimate trade.
 
+Shortly after his victory in Nostro, he completely vanished from the newly-reformed town, but has promised to return if they were ever in need of aid.
+
 \*_These veterans were later known as "fire warriors", and have maintained a staple of Comfort's anti-Empire forces and tactics._
 
 ## Media
