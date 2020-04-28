@@ -48,6 +48,20 @@ Comfort heard his friends and their families crying out, and had to force himsel
 
 This is the last thing Comfort remembers clearly about that day, but to his ignorance, Guidance, Comfort's father, returned to the clan on the day of the attack and, armed with his new knowledge of the elements, single-handedly protected the rest of the caravans shortly after Comfort fell. His father used a powerful spell to return Comfort's soul to it's body, forever cursing his father by stripping him of all his magic. Still unconscious, Comfort was taken to an ancient gateway to the material plane by The Storm-Breakers under instruction of Guidance, where he was left with ample supplies to start his life anew in a world that was not cursed with Blight.
 
+### [999POC 19/11 06:30] Nostro Revolution
+
+<iframe src="https://open.spotify.com/embed/track/4zOfy9kqJlG0ZXvcaSh4gv" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Comfort's life in the material plane was wrought with strife as Cinds were considered evil by the common human. Due to this, he found it very difficult to find his place in the world, choosing to travel far and wide to try and find a place he could call home.
+
+After a few months of travelling around Gil'brun, he came across the port-town of Nostro, a bustling trade hub that splintered-off from The Empire over a decade before. Though independent from it, Nostro was still forced to comply with The Empire's laws and trading regulations, of which prohibited both Goblins and Cinds from applying for a trader's license. This meant a lot of the residents of Nostro couldn't earn a living without turning to trading on black markets and other illigitimate forms of earning coin, which only further ruined their reputation.
+
+Seeing this endless cycle of hatred towards his and other species caused something to finally snap within Comfort, and in a blind rage, he challenged and defeated the Empire-assigned guardsmen with the aid of a gang of other warriors. Upon hearing of this rally for change and the resistance that was rising within the town, The Empire dispatched an entire legion to control the revolution. By the time the legion arrived to the town, the revolutionary forces had grown enough to pose a serious enough threat to them, and an impromptu siege of the town took place.
+
+During the siege, Comfort was able to command a force of veterans that he augmented with fireskin to cleave directly through the legion's defensive line\*, a tactic previously thought impossible, which was enough of a blow to force the legion to retreat. Shortly after this battle, Bastion (the Empire-controlled capital of Gil'brun), declared that Nostro was to be truly independent from The Empire, allowing those of all origins to make a living by legitimate trade.
+
+\*_These veterans were later known as "fire warriors", and have maintained a staple of Comfort's anti-Empire forces and tactics._
+
 ## Media
 
 ![](/assets/img/comfort-sara.jpg)
