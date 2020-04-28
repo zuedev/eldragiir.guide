@@ -17,6 +17,12 @@
     {% endif %}
     <meta property="og:site_name" content="Eldragiir" />
     <meta property="og:type" content="article" />
+    {% if page.author %}
+    <meta property="og:article:author" content="{{ page.author }}" />
+    <meta property="og:article:author" content="zuedev" />
+    {% else %}
+    <meta property="og:article:author" content="zuedev" />
+    {% endif %}
   </head>
   <body>
     <main>
