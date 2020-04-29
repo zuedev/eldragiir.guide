@@ -9,7 +9,17 @@
     <title>Eldragiir</title>
     {% endif %}
     <link rel="stylesheet" href="/assets/css/default.css" />
-    {% if page.customCss %}
+    {% if page.background %}
+    <style>
+      html {
+        background: url({{page.background}}) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+    </style>
+    {% endif %} {% if page.customCss %}
     <link rel="stylesheet" href="{{ page.customCss }}" />
     {% endif %} {% if page.customFavicon %}
     <link href="{{ page.customFavicon }}" rel="icon" type="image/x-icon" />
@@ -73,17 +83,23 @@
         <h1>{{ page.h1 }}</h1>
         {% else %}
         <h1>{{ page.title }}</h1>
+        {% endif %} {% if page.spotifyTrack %}
+        <iframe
+          src="https://open.spotify.com/embed/track/{{ page.spotifyTrack }}"
+          width="300"
+          height="80"
+          frameborder="0"
+          allowtransparency="true"
+          allow="encrypted-media"
+        ></iframe>
         {% endif %} {% if page.prose %}
         <h2>Prose</h2>
         <p>{{ page.prose }}</p>
         {% endif %} {{ content }}
       </div>
-      {% if page.youtubeBackground %}
+      {% if page.backgroundSource %}
       <p class="bottomRightMeta">
-        <a
-          href="https://youtu.be/{{ page.youtubeBackground
-      }}"
-          target="_blank"
+        <a href="{{ page.backgroundSource }}" target="_blank"
           ><b>Background Source</b></a
         >
       </p>

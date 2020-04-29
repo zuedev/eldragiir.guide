@@ -9,6 +9,7 @@ prose: >-
   Tiamon. He wields three scimitars and a glaive, along with utilising elemental
   powers (primarily fire) to augment his fighting style.
 youtubeBackground: GCiCghiu1Z0
+backgroundSource: https://youtu.be/GCiCghiu1Z0
 customCss: /assets/css/comfort.css
 published: true
 categories:
