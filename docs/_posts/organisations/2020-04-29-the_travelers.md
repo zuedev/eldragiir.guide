@@ -12,7 +12,7 @@ backgroundSource: "https://youtu.be/J9Q3i5w6-Ug"
 customCss: /assets/css/travelers.css
 published: true
 categories:
-  - concepts
+  - organisations
 date: 2020-04-29T00:27:10.829Z
 ---
 
