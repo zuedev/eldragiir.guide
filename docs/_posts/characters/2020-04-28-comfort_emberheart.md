@@ -21,7 +21,6 @@ tags:
   - chaotic_neutral
   - male
   - the_fire_caste_of_tiamon
-date: 2020-04-28T19:49:18.295Z
 ---
 
 ## Meta

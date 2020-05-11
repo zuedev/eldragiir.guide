@@ -20,3 +20,6 @@ defaults:
 collections:
   assets:
     output: true
+
+plugins:
+  - jekyll-last-modified-at

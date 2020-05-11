@@ -13,7 +13,6 @@ customCss: /assets/css/travelers.css
 published: true
 categories:
   - organisations
-date: 2020-04-29T00:27:10.829Z
 ---
 
 ## Current Supposed Travelers
@@ -25,7 +24,6 @@ date: 2020-04-29T00:27:10.829Z
   <li><a href="https://ddb.ac/characters/17041655/PTdrGd" target="_blank">Haniel</a></li>
   <li><a href="https://ddb.ac/characters/19268207/nyxiqs" target="_blank">Vermund Wolfe</a></li>
   <li><a href="https://ddb.ac/characters/24242666/racTlO" target="_blank">Rest</a></li>
-  <!-- <li><a href="https://ddb.ac/characters/16488420/RTfw4P" target="_blank">Relief Manafeld</a></li> -->
 </ul>
 
 ## Media

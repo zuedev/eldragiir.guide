@@ -104,7 +104,9 @@
         >
       </p>
       {% endif %} {% if page.date %}
-      <p class="bottomRightMeta"><b>Last Updated:</b> {{ page.date }}</p>
+      <p class="bottomRightMeta">
+        <b>Last Updated:</b> {{ page.last_modified_at }}
+      </p>
       {% endif %}
     </main>
   </body>
