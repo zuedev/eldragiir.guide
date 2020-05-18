@@ -9,7 +9,7 @@
 - Bastion
 - Nostro
 - Hel
-- Massacre of Gil’brun
+- Massacre of Gil'brun
 - Rivenhood
 - Imperial Legionnaires
 - Imperial Knights
@@ -30,7 +30,7 @@
 - Kragpeak
 - Cinds
   - Masks are special and made of bone, traditionally dragon or wyverns, but can be anything
-    - Can be enhanced by using: embalming gel for resilience at the cost of easier breakage (+1 AC, once broken it’s shattered and unrepairable), special pains for decoration (+1 charisma when interacting with Cinds)
+    - Can be enhanced by using: embalming gel for resilience at the cost of easier breakage (+1 AC, once broken it's shattered and unrepairable), special pains for decoration (+1 charisma when interacting with Cinds)
     - Custom mask bases are very rare as they take a lot of power and expensive materials to make
   - Boneweaving
 - Dragons!
@@ -38,13 +38,13 @@
     - Dragon God of Light: Iamok
     - Dragon God of Dark: Volres
 - Eldritch shenanigans
-  - Maw of the World (Gil’brun)
-- Flynn’s Fishy Factory
+  - Maw of the World (Gil'brun)
+- Flynn's Fishy Factory
   - Distant relative of Willy
-- Bal’dan
-- Gil’Brun
-- Tawl’ek
+- Bal'dan
+- Gil'Brun
+- Tawl'ek
 - Ravios
-  - Capital of Tawl’ek
+  - Capital of Tawl'ek
 - Draag Ravenhammer
-  - Originally from Tawl’ek, he was the leader of the militia that guarded Ravios from outsiders such as the Empire, but was exiled for attempting to stage a coup.
+  - Originally from Tawl'ek, he was the leader of the militia that guarded Ravios from outsiders such as the Empire, but was exiled for attempting to stage a coup.
