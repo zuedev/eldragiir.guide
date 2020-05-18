@@ -1,5 +1,6 @@
 include:
   - "_assets"
+  - "_notes"
 
 defaults:
   - scope:
@@ -19,6 +20,8 @@ defaults:
 
 collections:
   assets:
+    output: true
+  notes:
     output: true
 
 plugins:

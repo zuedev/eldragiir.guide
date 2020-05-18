@@ -1,0 +1,50 @@
+# TODO
+
+- Newnook
+- The Empire
+  - Made up of The Imperium (government), Empirialis (monarchy), Guilds (merchants & trades), and Popularis (the people)
+- Tiamon
+- Redstead
+- Temple of Light (South of Bastion)
+- Bastion
+- Nostro
+- Hel
+- Massacre of Gil’brun
+- Rivenhood
+- Imperial Legionnaires
+- Imperial Knights
+- Warforged (Needs renaming)
+  - Core can be damaged (always at exhaustion level 2, half the hitpoints that you always have)
+- Soul crystals (Link to Warforged)
+- Riverdale
+- Empictis Dracorites (Imperial elite knights, blessed draconic knights)
+- The Eight (gods for the empire)
+  - Hera, the God of Life
+    - Colour: Green
+  - Tormiel, the God of Judgement
+    - Weighs your soul, heavy gets you sent back to world to try again, light gets you into paradise/afterlife
+  - Gavlok, the God of Death
+    - Colour: Grey
+- Knowledge crystal (archival & potentially sentient)
+- Macrowave
+- Kragpeak
+- Cinds
+  - Masks are special and made of bone, traditionally dragon or wyverns, but can be anything
+    - Can be enhanced by using: embalming gel for resilience at the cost of easier breakage (+1 AC, once broken it’s shattered and unrepairable), special pains for decoration (+1 charisma when interacting with Cinds)
+    - Custom mask bases are very rare as they take a lot of power and expensive materials to make
+  - Boneweaving
+- Dragons!
+  - Light and dark, with colours for each depicting abilities and personality.
+    - Dragon God of Light: Iamok
+    - Dragon God of Dark: Volres
+- Eldritch shenanigans
+  - Maw of the World (Gil’brun)
+- Flynn’s Fishy Factory
+  - Distant relative of Willy
+- Bal’dan
+- Gil’Brun
+- Tawl’ek
+- Ravios
+  - Capital of Tawl’ek
+- Draag Ravenhammer
+  - Originally from Tawl’ek, he was the leader of the militia that guarded Ravios from outsiders such as the Empire, but was exiled for attempting to stage a coup.
