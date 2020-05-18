@@ -48,3 +48,7 @@
   - Capital of Tawl'ek
 - Draag Ravenhammer
   - Originally from Tawl'ek, he was the leader of the militia that guarded Ravios from outsiders such as the Empire, but was exiled for attempting to stage a coup.
+- The Circle (pantheon of Tawl'ek)
+  - The Mother
+    - Raven iconography
+  -

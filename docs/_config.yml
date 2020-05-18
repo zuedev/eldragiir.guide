@@ -23,6 +23,3 @@ collections:
     output: true
   notes:
     output: true
-
-plugins:
-  - jekyll-last-modified-at
