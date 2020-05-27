@@ -1,11 +1,9 @@
 ---
-title: Dungeons & Dragons (5th Edition)
 thumbnail: /assets/dungeons_-_dragons_5th_edition_logo.png
+title: Dungeons & Dragons (5th Edition)
+description: We use all standard D&D 5e rules, though we have made some changes
+  for our own games.
 ---
-# Rules
-
-We use all standard D&D 5e rules, though we have made some changes for our own games.
-
 ## Core Mechanics
 
 ### New Ability Score
