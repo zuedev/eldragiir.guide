@@ -1,15 +1,15 @@
 ---
 title: The Travelers
-image: /eldragiir/assets/img/travelers-placeholder.gif
+image: /assets/img/travelers-placeholder.gif
 spotifyTrack: 4ZOfuStWG3FIJYIjiQsQRf
 prose: >-
   The story of The Travelers is one shrouded in mystery and is probably
   long-lost to history. What we do know is that they were a band of adventurers
   who overcame a tremendous evil millenia ago. It is said that they reincarnate
   every thousand years or so to do battle with the same evil to keep it at bay.
-background: /eldragiir/assets/img/travelers-placeholder.gif
+background: /assets/img/travelers-placeholder.gif
 backgroundSource: "https://youtu.be/J9Q3i5w6-Ug"
-customCss: /eldragiir/assets/css/travelers.css
+customCss: /assets/css/travelers.css
 published: true
 categories:
   - organisations
@@ -28,4 +28,4 @@ categories:
 
 ## Media
 
-![](/eldragiir/assets/img/travelers-sigils.png)
+![](/assets/img/travelers-sigils.png)

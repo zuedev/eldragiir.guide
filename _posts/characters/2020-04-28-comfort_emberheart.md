@@ -1,7 +1,7 @@
 ---
 title: Comfort Emberheart
 h1: Comfort Emberheart (a.k.a. The Prince of Fire)
-image: /eldragiir/assets/img/comfort-thumbnail.jpg
+image: /assets/img/comfort-thumbnail.jpg
 imageAlt: Comfort on the streets on Nostro during it's revolution in 999POC
 prose: >-
   Comfort Emberheart is a Dustborn Cind and the current leader of The Fire Caste
@@ -10,7 +10,7 @@ prose: >-
   powers (primarily fire) to augment his fighting style.
 youtubeBackground: GCiCghiu1Z0
 backgroundSource: https://youtu.be/GCiCghiu1Z0
-customCss: /eldragiir/assets/css/comfort.css
+customCss: /assets/css/comfort.css
 published: true
 categories:
   - characters
@@ -80,4 +80,4 @@ Shortly after his victory in Nostro, Comfort and his band of veteran warriors co
 
 ## Media
 
-![](/eldragiir/assets/img/comfort-sara.jpg)
+![](/assets/img/comfort-sara.jpg)
