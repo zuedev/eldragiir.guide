@@ -2,6 +2,10 @@ backend:
   name: github
   repo: zuedev/worlds
 media_folder: "assets"
+publish_mode: editorial_workflow
+site_url: https://eldragiir.zue.dev
+display_url: https://eldragiir.zue.dev
+# logo_url: https://your-site.com/images/logo.svg
 collections:
   - label: "Characters"
     name: "characters"
