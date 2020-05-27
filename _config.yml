@@ -1,26 +1,5 @@
-include:
-  - "_assets"
-  - "_notes"
-
 defaults:
   - scope:
       path: ""
     values:
       layout: "default"
-      toc: true
-  - scope:
-      path: "_posts"
-    values:
-      date: "2020-01-02"
-      permalink: /:categories/:title
-  - scope:
-      path: "_assets/images"
-    values:
-      image: true
-      permalink: /:title:output_ext
-
-collections:
-  assets:
-    output: true
-  notes:
-    output: true
