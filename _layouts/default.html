@@ -65,7 +65,7 @@
         <iframe
           src="https://www.youtube.com/embed/{{ page.youtubeBackground }}?controls=0&autoplay=1&loop=1&playlist={{ page.youtubeBackground }}&mute=1"
           frameborder="0"
-          allowfullscreen
+          allowfullscreen="allowfullscreen"
         ></iframe>
       </div>
     </div>
@@ -73,9 +73,7 @@
     <main>
       {% if page.image %}
       <!-- TODO: implement proper thumbnail/primary image styling -->
-      <!-- <div class="pageImage">
-        <img src="{{ page.image }}" alt="{{ page.imageAlt }}" />
-      </div> -->
+      <!-- <div class="pageImage"> <img src="{{ page.image }}" alt="{{ page.imageAlt }}" /> </div> -->
       {% endif %}
       <div class="content">
         {% if page.toc %}
@@ -100,9 +98,9 @@
       </div>
       {% if page.backgroundSource %}
       <p class="bottomRightMeta">
-        <a href="{{ page.backgroundSource }}" target="_blank"
-          ><b>Background Source</b></a
-        >
+        <a href="{{ page.backgroundSource }}" target="_blank">
+          <b>Background Source</b>
+        </a>
       </p>
       {% endif %}
     </main>
