@@ -1,10 +1,10 @@
 backend:
   name: github
   repo: zuedev/worlds
-media_folder: "_assets"
+media_folder: "_assets/img"
 collections:
-  - name: "eldragiir"
-    label: "Eldragiir"
-    folder: "_posts/eldragiir/"
+  - name: "eldragiir/characters"
+    label: "Eldragiir/Characters"
+    folder: "_posts/eldragiir/characters"
     fields:
       - { name: Title }
