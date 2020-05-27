@@ -5,4 +5,4 @@ media_folder: "_assets/img"
 collections:
   - name: "eldragiircharacters"
     label: "EldragiirCharacters"
-    folder: "_posts/eldragiir/characters"
+    folder: "_eldragiir/characters"
