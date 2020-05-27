@@ -1,11 +1,10 @@
 backend:
   name: github
   repo: zuedev/worlds
-media_folder: "_assets/img"
+media_folder: "assets"
 collections:
-  - label: "EldragiirCharacters"
-    name: "eldragiircharacters"
-    folder: "_eldragiir/characters"
+  - label: "Eldragiir Rulesets"
+    name: "eldragiir-rulesets"
+    folder: "eldragiir/rulesets"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
