@@ -12,6 +12,15 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Organizations"
+    name: "organizations"
+    folder: "organizations"
+    create: true
+    fields:
+      - { label: "Thumbnail", name: "thumbnail", widget: "image" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - label: "Rulesets"
     name: "rulesets"
     folder: "rulesets"
