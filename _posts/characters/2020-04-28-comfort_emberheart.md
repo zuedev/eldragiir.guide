@@ -13,7 +13,7 @@ backgroundSource: https://youtu.be/GCiCghiu1Z0
 customCss: /assets/css/comfort.css
 published: true
 categories:
-  - characters
+  - eldragiir/characters
 tags:
   - eca_practitioners
   - dustborn
