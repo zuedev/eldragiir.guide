@@ -6,10 +6,29 @@
     <title>
       {{ page.title }} | Eldragiir
     </title>
+    <meta property="og:site_name" content="{{ site.url }}" />
+    <meta property="og:type" content="article" />
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+    {% endif %} {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    {% else %} {% if page.url %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    {% endif %} {% if page.thumbnail %}
+    <meta property="og:image" content="{{ page.thumbnail }}" />
+    <meta property="twitter:image" content="{{ page.thumbnail }}" />
+    <meta property="twitter:card" content="summary_large_image" />
+    {% endif %} {% if page.author %}
+    <meta property="og:article:author" content="{{ page.author }}" />
+    <meta property="og:article:author" content="zuedev" />
+    {% else %}
+    <meta property="og:article:author" content="zuedev" />
+    {% endif %}
   </head>
   <body>
     <header>
       <h1>{{ page.title }}</h1>
+      <p>{{ page.description }}</p>
     </header>
     <main>
       {{ content }}
