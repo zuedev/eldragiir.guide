@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: zuedev/worlds
+  repo: zuedev/eldragiir
 media_folder: "assets"
 publish_mode: editorial_workflow
 site_url: https://eldragiir.zue.dev
