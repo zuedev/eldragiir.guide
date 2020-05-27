@@ -3,9 +3,18 @@ backend:
   repo: zuedev/worlds
 media_folder: "assets"
 collections:
-  - label: "Eldragiir Rulesets"
-    name: "eldragiir-rulesets"
-    folder: "eldragiir/rulesets"
+  - label: "Rulesets"
+    name: "rulesets"
+    folder: "rulesets"
+    create: true
+    fields:
+      - { label: "Thumbnail", name: "thumbnail", widget: "image" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Characters"
+    name: "characters"
+    folder: "characters"
     create: true
     fields:
       - { label: "Thumbnail", name: "thumbnail", widget: "image" }
