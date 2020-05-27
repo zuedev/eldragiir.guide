@@ -56,6 +56,10 @@
       integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
       crossorigin="anonymous"
     ></script>
+    <!-- Material ScrollTop stylesheet -->
+    <link rel="stylesheet" href="dist/material-scrolltop.css" />
+    <!-- material-scrolltop plugin -->
+    <script src="dist/material-scrolltop.js"></script>
   </head>
   <body>
     {% if page.youtubeBackground %}
@@ -106,6 +110,7 @@
       </p>
       {% endif %}
     </main>
+    <button class="material-scrolltop" type="button"></button>
   </body>
   {% if page.toc %}
   <script src="//cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
@@ -114,4 +119,8 @@
   {% if page.youtubeBackground %}
   <script src="/assets/js/youtubeBackground.js"></script>
   {% endif %}
+  <!-- Initialize material-scrolltop (minimal) -->
+  <script>
+    $("body").materialScrollTop();
+  </script>
 </html>
