@@ -8,3 +8,4 @@ collections:
     folder: "_eldragiir/characters"
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
