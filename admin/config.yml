@@ -3,6 +3,8 @@ backend:
   repo: zuedev/worlds
 media_folder: "_assets/img"
 collections:
-  - name: "eldragiircharacters"
-    label: "EldragiirCharacters"
+  - label: "EldragiirCharacters"
+    name: "eldragiircharacters"
     folder: "_eldragiir/characters"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
