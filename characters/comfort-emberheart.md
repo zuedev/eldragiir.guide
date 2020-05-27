@@ -64,4 +64,4 @@ Shortly after his victory in Nostro, Comfort and his band of veteran warriors co
 
 ## Media
 
-![](/assets/img/comfort-sara.jpg)
+![](/assets/comfort-sara.jpg)
