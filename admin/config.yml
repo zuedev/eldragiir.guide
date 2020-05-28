@@ -18,7 +18,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Concepts"
     name: "concepts"
-    folder: "concepts"
+    folder: "_concepts"
     create: true
     fields:
       - { label: "Thumbnail", name: "thumbnail", widget: "image" }
@@ -27,7 +27,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Organizations"
     name: "organizations"
-    folder: "organizations"
+    folder: "_organizations"
     create: true
     fields:
       - { label: "Thumbnail", name: "thumbnail", widget: "image" }
@@ -36,7 +36,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Rulesets"
     name: "rulesets"
-    folder: "rulesets"
+    folder: "_rulesets"
     create: true
     fields:
       - { label: "Thumbnail", name: "thumbnail", widget: "image" }
