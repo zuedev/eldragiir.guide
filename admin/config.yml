@@ -9,7 +9,7 @@ display_url: https://eldragiir.zue.dev
 collections:
   - label: "Characters"
     name: "characters"
-    folder: "characters"
+    folder: "_characters"
     create: true
     fields:
       - { label: "Thumbnail", name: "thumbnail", widget: "image" }

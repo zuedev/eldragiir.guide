@@ -7,3 +7,12 @@ plugins:
   - jekyll-last-modified-at
 last-modified-at:
   date-format: "%d-%b-%y"
+collections:
+  characters:
+    output: true
+  concepts:
+    output: true
+  organizations:
+    output: true
+  rulesets:
+    output: true
