@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap");
+
+* {
+  font-family: "Architects Daughter", cursive;
+}
+
 html,
 body {
   margin: 0;
@@ -15,6 +21,7 @@ body {
   background-color: #000000;
   background-image: url("https://www.transparenttextures.com/patterns/wood-pattern.png");
   background-attachment: fixed;
+  font-size: larger;
 }
 
 #article {
