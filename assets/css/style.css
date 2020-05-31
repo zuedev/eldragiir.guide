@@ -1,0 +1,32 @@
+html,
+body {
+  margin: 0;
+}
+
+html {
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/wood-pattern.png");
+  background-attachment: fixed;
+}
+
+#article {
+  background-color: #f2eecb;
+  background-image: url("https://www.transparenttextures.com/patterns/textured-paper.png");
+  width: 50vw;
+  margin: auto;
+  padding: 2rem;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+img {
+  width: 100%;
+}

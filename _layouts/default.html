@@ -24,17 +24,20 @@
     {% else %}
     <meta property="og:article:author" content="zuedev" />
     {% endif %}
+    <link rel="stylesheet" href="/assets/css/style.css" />
   </head>
   <body>
-    <header>
-      <h1>{{ page.title }}</h1>
-      <p>{{ page.description }}</p>
-    </header>
-    <main>
-      {{ content }}
-    </main>
-    <footer>
-      <span>Last modified at: {% last_modified_at %}</span>
-    </footer>
+    <div id="article">
+      <header>
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.description }}</p>
+      </header>
+      <main>
+        {{ content }}
+      </main>
+      <footer>
+        <span>Last modified at: {% last_modified_at %}</span>
+      </footer>
+    </div>
   </body>
 </html>
