@@ -19,19 +19,39 @@ html::-webkit-scrollbar {
 
 body {
   background-color: #000000;
-  background-image: url("https://www.transparenttextures.com/patterns/wood-pattern.png");
+  background-image: url("/assets/img/wood-pattern.png");
   background-attachment: fixed;
   font-size: larger;
 }
 
 #article {
   background-color: #f2eecb;
-  background-image: url("https://www.transparenttextures.com/patterns/textured-paper.png");
+  background-image: url("/assets/img/textured-paper.png");
   width: 50vw;
   margin: auto;
   padding: 2rem;
   margin-top: 5vh;
   margin-bottom: 5vh;
+}
+
+@media screen and (min-width: 400px) {
+  #article {
+    margin-top: 2vh;
+    width: 80vw;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  #article {
+    margin-top: 5vh;
+    width: 80vw;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  #article {
+    width: 70vw;
+  }
 }
 
 img {
@@ -40,4 +60,8 @@ img {
 
 h1:first-child {
   margin-top: 0;
+}
+
+.capitalise {
+  text-transform: capitalize;
 }
