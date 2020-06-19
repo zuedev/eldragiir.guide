@@ -46,6 +46,12 @@ Instead of one movement and one action per turn, the player has two general acti
 - Whenever a creature becomes unconscious due to combat, an injury is added to the creature. This can either be dictated by the GM or a roll, and can either be temporary or permanent.
   - Temporary injuries can be fixed through normal healing/restoration. Whereas permanent injuries take multiple days/weeks of healing, or must be performed by high-level magical healing.
 
+## Class Features
+
+### Monk
+
+- The **Slow Fall** feature has changed: You no longer take no damage, but instead take 1 hitpoint minimum damage from all falls above 2x your monk level plus 10.
+
 ## Racial Traits
 
 ### Warforged
