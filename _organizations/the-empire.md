@@ -1,5 +1,5 @@
 ---
-thumbnail: https://i.ytimg.com/vi/czTmAAySAOc/maxresdefault.jpg
+thumbnail: /assets/img/theempire-placeholder.jpg
 thumbnailPlaceholder: true
 title: The Empire
 ---

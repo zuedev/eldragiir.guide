@@ -1,5 +1,5 @@
 ---
-thumbnail: https://i.pinimg.com/originals/83/e9/52/83e9525075573ec621537568d97ec502.jpg
+thumbnail: /assets/img/newnook-placeholder.jpg
 thumbnailPlaceholder: true
 title: Newnook
 ---

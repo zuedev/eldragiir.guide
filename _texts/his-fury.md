@@ -1,5 +1,5 @@
 ---
-thumbnail: https://s1.1zoom.me/big0/454/430859-Kysb.jpg
+thumbnail: /assets/img/hisfury-placeholder.jpg
 thumbnailPlaceholder: true
 title: His Fury
 ---

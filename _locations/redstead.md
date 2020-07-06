@@ -1,5 +1,5 @@
 ---
-thumbnail: https://feyancestry.files.wordpress.com/2017/09/lodge.jpg
+thumbnail: /assets/img/redstead-placeholder.jpg
 thumbnailPlaceholder: true
 title: Redstead
 ---
