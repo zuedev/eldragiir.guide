@@ -3,7 +3,6 @@
 - The Empire
   - Made up of The Imperium (government), Empirialis (monarchy), Guilds (merchants & trades), and Popularis (the people)
 - Tiamon
-- Redstead
 - Temple of Light (South of Bastion)
 - Bastion
 - Nostro
