@@ -54,10 +54,6 @@ body {
   }
 }
 
-img {
-  width: 100%;
-}
-
 h1:first-child {
   margin-top: 0;
 }
@@ -68,4 +64,8 @@ h1:first-child {
 
 a {
   text-decoration: none;
+}
+
+.thumbnail {
+  width: 100%;
 }

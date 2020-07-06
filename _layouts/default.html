@@ -29,6 +29,27 @@
   <body>
     <div id="article">
       <header>
+        {% if page.thumbnail %} {% if page.thumbnailPlaceholder %}
+        <div id="thumbnail"></div>
+        <script src="https://rawcdn.githack.com/brianium/watermarkjs/523ea613c6f7f22a68e775f82066d16ad207716c/dist/watermark.min.js"></script>
+        <script>
+          watermark(["{{ page.thumbnail }}"])
+            .image(
+              watermark.text.lowerRight(
+                "PLACEHOLDER",
+                "40px monospace",
+                "#ff0000",
+                1
+              )
+            )
+            .then(function (img) {
+              document.getElementById("thumbnail").appendChild(img);
+              img.style.width = "100%";
+            });
+        </script>
+        {% else %}
+        <img id="thumbnail" src="{{ page.thumbnail }}" />
+        {% endif %} {% endif %}
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
       </header>
