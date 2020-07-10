@@ -66,6 +66,10 @@ a {
   text-decoration: none;
 }
 
-.thumbnail {
+#thumbnail {
   width: 100%;
+}
+
+img {
+  max-width: 100%;
 }
