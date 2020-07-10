@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/comfort-thumbnail.jpg
+thumbnail: /assets/img/comfort-thumbnail.jpg
 title: Comfort Emberheart
 description: Comfort Emberheart is a Dustborn Cind and the current leader of The
   Fire Caste   of Tiamon, a militant organisation seeking to retake the
@@ -7,6 +7,7 @@ description: Comfort Emberheart is a Dustborn Cind and the current leader of The
   with utilising elemental   powers (primarily fire) to augment his fighting
   style.
 ---
+
 ## Meta
 
 - **Alignment:** Chaotic Neutral
@@ -64,4 +65,4 @@ Shortly after his victory in Nostro, Comfort and his band of veteran warriors co
 
 ## Media
 
-![](/assets/comfort-sara.jpg)
+![](/assets/img/comfort-sara.jpg)
