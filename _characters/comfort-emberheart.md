@@ -1,11 +1,7 @@
 ---
 thumbnail: /assets/img/comfort-thumbnail.jpg
 title: Comfort Emberheart
-description: Comfort Emberheart is a Dustborn Cind and the current leader of The
-  Fire Caste   of Tiamon, a militant organisation seeking to retake the
-  once-great city of   Tiamon. He wields three scimitars and a glaive, along
-  with utilising elemental   powers (primarily fire) to augment his fighting
-  style.
+description: Comfort Emberheart is a Dustborn Cind and the current leader of The Fire Caste of Tiamon, a militant organisation seeking to retake the once-great city of Tiamon. He wields three scimitars and a glaive, along with utilising elemental powers (primarily fire) to augment his fighting style.
 ---
 
 ## Meta
