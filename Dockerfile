@@ -1,4 +1,4 @@
-FROM jekyll/minimal:latest
+FROM jekyll/jekyll:latest
 
 COPY ./ /srv/jekyll
 
