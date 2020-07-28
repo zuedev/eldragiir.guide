@@ -1,4 +1,5 @@
 FROM jekyll/jekyll:latest
-WORKDIR /srv/jekyll
-COPY --chown=jekyll:jekyll ./ ./
-CMD jekyll serve --host 0.0.0.0
+COPY --chown=jekyll:jekyll ./ /srv/jekyll
+RUN jekyll build
+FROM httpd:2.4
+COPY --from=0 /srv/jekyll/_site/ /usr/local/apache2/htdocs/
