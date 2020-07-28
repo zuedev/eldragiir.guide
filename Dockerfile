@@ -1,5 +1,4 @@
 FROM jekyll/jekyll:latest
 WORKDIR /srv/jekyll
-COPY ./ ./
-COPY --chown=jekyll:jekyll Gemfile.lock ./
+COPY --chown=jekyll:jekyll ./ ./
 CMD jekyll serve
