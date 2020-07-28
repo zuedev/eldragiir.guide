@@ -1,6 +1,5 @@
 FROM jekyll/jekyll:latest
-
-COPY ./ /srv/jekyll
+WORKDIR /srv/jekyll
+COPY ./ ./
 COPY --chown=jekyll:jekyll Gemfile.lock ./
-
 RUN jekyll serve
