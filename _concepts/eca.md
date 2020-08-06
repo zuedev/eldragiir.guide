@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/img/eca.png
+# thumbnail: /assets/img/eca.png
 title: Eca
 description: Eca is an ancient martial art that allows the practitioner to alter
   the   elements of earth, water, fire, and air to manifest exceptional effects
