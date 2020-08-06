@@ -8,8 +8,6 @@ last-modified-at:
 collections:
   characters:
     output: true
-  concepts:
-    output: true
   organizations:
     output: true
   rulesets:
