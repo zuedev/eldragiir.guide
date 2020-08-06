@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/travelers-placeholder.gif
+thumbnail: /assets/img/travelers-placeholder.gif
 title: The Travelers
 description: The story of The Travelers is one shrouded in mystery and is
   probably long-lost to history. What we do know is that they were a band of
@@ -7,6 +7,7 @@ description: The story of The Travelers is one shrouded in mystery and is
   reincarnate every thousand years or so to do battle with the same evil to keep
   it at bay.
 ---
+
 ## Current Supposed Travelers
 
 <ul>
