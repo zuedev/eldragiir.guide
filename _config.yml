@@ -1,16 +1,10 @@
+source: "src"
+safe: true
+disable_disk_cache: true
 defaults:
-  - scope:
-      path: ""
-    values:
+  - values:
       layout: "default"
-last-modified-at:
-  date-format: "%d-%b-%y"
+collections_dir: _collections
 collections:
   characters:
-    output: true
-  organizations:
-    output: true
-  rulesets:
-    output: true
-  texts:
     output: true
